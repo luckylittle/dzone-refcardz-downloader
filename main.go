@@ -7,8 +7,10 @@ import (
 	"os"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/gocolly/colly"
+	"github.com/gocolly/colly/debug"
 )
 
 // constants that do not change
@@ -38,7 +40,7 @@ func main() { // main function start
 	os.Mkdir("downloads", 0700)
 
 	// instantiate first collector for log in
-	f := colly.NewCollector()
+	f := colly.NewCollector(colly.Debugger(&debug.LogDebugger{}))
 
 	// instantiate second collector for assets-list
 	g := colly.NewCollector()
@@ -48,13 +50,21 @@ func main() { // main function start
 	counter := 1
 
 	// authenticate, otherwise you won't be able to download refcardz later
-	err := f.Post("https://dzone.com/services/internal/action/dzoneUsers-validateCredentials", map[string]string{"username": username, "password": password})
-	if err != nil {
-		log.Fatal(err)
-	}
+	f.OnHTML("form[role=form] input[type=hidden][name=TH_CSRF]", func(e *colly.HTMLElement) {
+		thCsrf := e.Attr("value")
+		err := f.Post("https://dzone.com/j_spring_security_check", map[string]string{"TH_CSRF": thCsrf, "_spring_security_remember_me": "true", "j_username": "dzone-refcardz@mailcatch.com", "j_password": "password123456"})
+		if err != nil {
+			log.Fatal(err)
+		}
+		return
+	})
 
 	// visit the users-login page
-	f.Visit("https://dzone.com/services/internal/action/users-login")
+	f.Visit("https://dzone.com/users/login.html")
+
+	// clone the logging collector
+	h := f.Clone()
+	h.SetRequestTimeout(180 * time.Second)
 
 	// keep visiting the assets-list websites until the specific response indicating last page is returned
 	for {
@@ -81,29 +91,63 @@ func main() { // main function start
 			}
 
 			// naked return; returns the current values in the return arguments local variables
-			return
+			//return
 
 		}) // end of response block
 
-		// clone the logging collector
-		h := f.Clone()
-
 		// loop through the data assets containing Titles and incomplete Pdf links
 		for _, obj := range data.Result.Data.Assets {
-			filename := obj.Title                                            // title is going to be filename
-			link := "https://dzone.com" + obj.Pdf                            // complete the HTTP link
-			fmt.Println("#", counter, "Downloading", filename, "from", link) // show verbose progress
+			fileName := strings.Replace(obj.Title+".pdf", " ", "_", -1) // title is going to be filename
+			link := "https://dzone.com" + obj.Pdf                       // complete the HTTP link
+			fmt.Println("link after assignment:", link)
 
 			h.OnResponse(func(q *colly.Response) {
 				// replace the " " with a "_" in the filename and add extension
-				result := strings.Replace("downloads/"+filename+".pdf", " ", "_", -1)
-				q.Save(result) // save
+				q.Save("downloads/" + fileName)                                 // save
+				fmt.Println("#", counter, "Downloaded", fileName, "from", link) // show verbose progress
 			})
+
 			// visit
+			fmt.Println("link before h.visit:", link)
 			h.Visit(link)
+			link = ""
 			counter++
 		}
-
+		/*
+		   Debug log:
+		   [000001] 1 [     1 - request] map["url":"https://dzone.com/users/login.html"] (36.392µs)
+		   [000002] 1 [     1 - response] map["url":"https://dzone.com/users/login.html" "status":"OK"] (1.535579866s)
+		   [000003] 1 [     1 - html] map["selector":"form[role=form] input[type=hidden][name=TH_CSRF]" "url":"https://dzone.com/users/login.html"] (1.537939626s)
+		   [000004] 1 [     2 - request] map["url":"https://dzone.com/j_spring_security_check"] (1.538068512s)
+		   [000005] 1 [     2 - response] map["url":"https://dzone.com/index.html" "status":"OK"] (2.565529343s)
+		   [000006] 1 [     2 - scraped] map["url":"https://dzone.com/index.html"] (2.570756573s)
+		   [000007] 1 [     1 - scraped] map["url":"https://dzone.com/users/login.html"] (2.570774088s)
+		   link after assignment: https://dzone.com/asset/download/280333
+		   link before h.visit: https://dzone.com/asset/download/280333
+		   [000008] 3 [     1 - request] map["url":"https://dzone.com/asset/download/280333"] (3.377048525s)
+		   [000009] 3 [     1 - response] map["url":"https://dzone.com/storage/assets/11325551-dzone-refcard288-gettingstartedwithgit0221.pdf" "status":"OK"] (11.466351159s)
+		   # 1 Downloaded Getting_Started_With_Git.pdf from https://dzone.com/asset/download/280333
+		   [000010] 3 [     1 - scraped] map["url":"https://dzone.com/storage/assets/11325551-dzone-refcard288-gettingstartedwithgit0221.pdf"] (11.468748885s)
+		   link after assignment: https://dzone.com/asset/download/279342
+		   link before h.visit: https://dzone.com/asset/download/279342
+		   [000011] 3 [     2 - request] map["url":"https://dzone.com/asset/download/279342"] (11.469000995s)
+		   [000012] 3 [     2 - response] map["status":"OK" "url":"https://dzone.com/storage/assets/11283656-dzone-refcard288-timeseriesdata.pdf"] (1m15.373064768s)
+		   # 2 Downloaded Getting_Started_With_Git.pdf from
+		   # 2 Downloaded Working_With_Time_Series_Data.pdf from https://dzone.com/asset/download/279342
+		   [000013] 3 [     2 - scraped] map["url":"https://dzone.com/storage/assets/11283656-dzone-refcard288-timeseriesdata.pdf"] (1m15.385235892s)
+		   link after assignment: https://dzone.com/asset/download/278339
+		   link before h.visit: https://dzone.com/asset/download/278339
+		   [000014] 3 [     3 - request] map["url":"https://dzone.com/asset/download/278339"] (1m15.385308434s)
+		   [000015] 3 [     3 - response] map["url":"https://dzone.com/storage/assets/11231342-dzone-refcard288-introtolowcode.pdf" "status":"OK"] (1m22.233645502s)
+		   # 3 Downloaded Getting_Started_With_Git.pdf from
+		   # 3 Downloaded Working_With_Time_Series_Data.pdf from
+		   # 3 Downloaded Low-Code_Application_Development.pdf from https://dzone.com/asset/download/278339
+		   [000016] 3 [     3 - scraped] map["url":"https://dzone.com/storage/assets/11231342-dzone-refcard288-introtolowcode.pdf"] (1m22.257504381s)
+		   link after assignment: https://dzone.com/asset/download/279336
+		   link before h.visit: https://dzone.com/asset/download/279336
+		   [000017] 3 [     4 - request] map["url":"https://dzone.com/asset/download/279336"] (1m22.25785153s)
+		   ^Csignal: interrupt
+		*/
 		// next page
 		page++
 
