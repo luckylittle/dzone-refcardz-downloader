@@ -1,5 +1,10 @@
 # DZone: Programming & DevOps Refcardz Downloader
 
+[![Build Status](https://travis-ci.org/luckylittle/dzone-refcardz-downloader.svg?branch=master)](https://travis-ci.org/luckylittle/dzone-refcardz-downloader)
+[![GitHub license](https://img.shields.io/github/license/luckylittle/dzone-refcardz-downloader.svg)](https://github.com/luckylittle/dzone-refcardz-downloader/blob/master/LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/luckylittle/dzone-refcardz-downloader/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/luckylittle/dzone-refcardz-downloader)](https://goreportcard.com/report/github.com/luckylittle/dzone-refcardz-downloader)
+
 ## What is DZone.com
 
 - DZone.com is one of the world's largest online communities and leading publisher of knowledge resources for software developers. Every day, hundreds of thousands of developers come to DZone.com to read about the latest technology trends and learn about new technologies, methodologies, and best practices through shared knowledge.
