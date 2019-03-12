@@ -1,0 +1,13 @@
+// Login
+LET login = DOCUMENT("https://dzone.com/users/login.html", true)
+LET login_btn = ELEMENT(login, "button[type=submit]")
+INPUT(login, "form[role=form] input[name=j_username]", "dzone-refcardz@mailcatch.com", 5)
+INPUT(login, "form[role=form] input[name=j_password]", "password123456", 5)
+CLICK(login_btn)
+WAIT_NAVIGATION(login)
+
+// Refcardz
+LET refcardz = DOCUMENT("https://dzone.com/users/3590306/dzone-refcardz.html?sort=saved", true)
+WAIT_ELEMENT(refcardz, 'p[class=comment-title]', 25000)
+FOR el IN ELEMENTS(refcardz, "p[class=comment-title]")
+  RETURN ELEMENT(el, "a")
