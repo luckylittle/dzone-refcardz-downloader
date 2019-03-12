@@ -6,8 +6,12 @@ INPUT(login, "form[role=form] input[name=j_password]", "password123456", 5)
 CLICK(login_btn)
 WAIT_NAVIGATION(login)
 
-// Refcardz
+// Refcardz in your 'Saved' content
 LET refcardz = DOCUMENT("https://dzone.com/users/3590306/dzone-refcardz.html?sort=saved", true)
 WAIT_ELEMENT(refcardz, 'p[class=comment-title]', 25000)
 FOR el IN ELEMENTS(refcardz, "p[class=comment-title]")
-  RETURN ELEMENT(el, "a")
+  LET name = ELEMENT(el, "a")
+  RETURN {
+    name: TRIM(name),
+    url: "https://dzone.com" + name.attributes.href
+  }

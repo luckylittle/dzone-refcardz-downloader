@@ -18,6 +18,10 @@
 
 - Run `go run main.go`.
 
+### MontFerret/ferret
+
+- New development is being tested under `ferret/` folder.
+
 ## Technical details of the solution
 
 1. Loop through the assets list websites - `https://dzone.com/services/widget/assets-listV2/DEFAULT?hidefeat=true&page=XX&sort=downloads&type=refcard`, where `XX` is `1` to `XX` (until this empty response is returned: `{"success":true,"result":{"data":{"assets":[],"sort":"downloads"}},"status":200}`). At the time of writing, there are `24` pages. See this example of the valid JSON response:
@@ -85,5 +89,9 @@
 
 |Item          |Size      |
 |--------------|----------|
-|Refcardz      |284       |
+|Refcardz      |288       |
 |All files size|000 B (GB)|
+
+---
+
+@luckylittle <<lucian@redhat.com>>
