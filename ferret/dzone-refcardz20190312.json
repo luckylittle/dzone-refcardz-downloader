@@ -1,0 +1,1154 @@
+[
+  {
+    "name": ".NET on Linux",
+    "url": "https://dzone.com/refcardz/net-on-linux"
+  },
+  {
+    "name": "ADO.NET Entity Framework",
+    "url": "https://dzone.com/refcardz/adonet-entity-framework-object"
+  },
+  {
+    "name": "AMQP Essentials",
+    "url": "https://dzone.com/refcardz/amqp-essentials"
+  },
+  {
+    "name": "Adobe ColdFusion Web Services for PHP Programmers",
+    "url": "https://dzone.com/refcardz/adobe-coldfusion-web-services-0"
+  },
+  {
+    "name": "Adobe Flash Builder 4.5",
+    "url": "https://dzone.com/refcardz/adobe-flash-builder-45-develop"
+  },
+  {
+    "name": "Agile Adoption: Decreasing Time to Market",
+    "url": "https://dzone.com/refcardz/agile-adoption-decreasing-time"
+  },
+  {
+    "name": "Agile Adoption: Improving Software Quality",
+    "url": "https://dzone.com/refcardz/agile-adoption-improving"
+  },
+  {
+    "name": "Agile Adoption: Reducing Cost",
+    "url": "https://dzone.com/refcardz/agile-adoption-reducing-cost"
+  },
+  {
+    "name": "Agile Patterns",
+    "url": "https://dzone.com/refcardz/agile-patterns"
+  },
+  {
+    "name": "An Overview of GraphQL",
+    "url": "https://dzone.com/refcardz/an-overview-of-graphql"
+  },
+  {
+    "name": "Angular Essentials",
+    "url": "https://dzone.com/refcardz/angularjs-essentials"
+  },
+  {
+    "name": "Apache Cassandra",
+    "url": "https://dzone.com/refcardz/apache-cassandra"
+  },
+  {
+    "name": "Apache Hadoop Deployment",
+    "url": "https://dzone.com/refcardz/deploying-hadoop"
+  },
+  {
+    "name": "Apache Kafka",
+    "url": "https://dzone.com/refcardz/apache-kafka"
+  },
+  {
+    "name": "Apache Maven 2",
+    "url": "https://dzone.com/refcardz/apache-maven-2"
+  },
+  {
+    "name": "Apache Solr: Getting Optimal Search Results",
+    "url": "https://dzone.com/refcardz/solr-essentials"
+  },
+  {
+    "name": "Apache Spark",
+    "url": "https://dzone.com/refcardz/apache-spark"
+  },
+  {
+    "name": "Apache Tapestry 5.0",
+    "url": "https://dzone.com/refcardz/apache-tapestry-50"
+  },
+  {
+    "name": "Application Prototyping with SketchFlow",
+    "url": "https://dzone.com/refcardz/application-prototyping"
+  },
+  {
+    "name": "Blockchain and Distributed Ledger Technology for Documents",
+    "url": "https://dzone.com/refcardz/blockchain-and-distributed-ledger-technology-for-d"
+  },
+  {
+    "name": "Business Rule Management With Drools",
+    "url": "https://dzone.com/refcardz/drools"
+  },
+  {
+    "name": "C# Development",
+    "url": "https://dzone.com/refcardz/csharp"
+  },
+  {
+    "name": "CI/CD With Containers",
+    "url": "https://dzone.com/refcardz/cicd-with-containers"
+  },
+  {
+    "name": "CSS3 Basics",
+    "url": "https://dzone.com/refcardz/css3"
+  },
+  {
+    "name": "Camel Essential Components",
+    "url": "https://dzone.com/refcardz/essential-camel-components"
+  },
+  {
+    "name": "Chef An Open Source Tool for Scalable Cloud and Data Center Automation",
+    "url": "https://dzone.com/refcardz/chef-open-source-tool-scalable"
+  },
+  {
+    "name": "Cloud Capacity Management",
+    "url": "https://dzone.com/refcardz/cloud-capacity-management"
+  },
+  {
+    "name": "Cloud Computing with Windows Azure Platform",
+    "url": "https://dzone.com/refcardz/cloud-computing-windows-azure"
+  },
+  {
+    "name": "Cloud Foundry",
+    "url": "https://dzone.com/refcardz/cloud-foundry"
+  },
+  {
+    "name": "Code Gems for Android Developers",
+    "url": "https://dzone.com/refcardz/android-application"
+  },
+  {
+    "name": "Code Review Patterns and Anti-Patterns",
+    "url": "https://dzone.com/refcardz/code-review-patterns-and-anti-patterns"
+  },
+  {
+    "name": "ColdFusion Builder 2",
+    "url": "https://dzone.com/refcardz/coldfusion-builder-2-faster"
+  },
+  {
+    "name": "Compliant DevOps",
+    "url": "https://dzone.com/refcardz/compliant-devops"
+  },
+  {
+    "name": "Contexts and Dependency Injection for the Java EE Platform",
+    "url": "https://dzone.com/refcardz/contexts-and-depencency"
+  },
+  {
+    "name": "Continuous Delivery",
+    "url": "https://dzone.com/refcardz/continuous-delivery-patterns"
+  },
+  {
+    "name": "Continuous Delivery With Jenkins Workflow",
+    "url": "https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow"
+  },
+  {
+    "name": "Continuous Integration",
+    "url": "https://dzone.com/refcardz/continuous-integration"
+  },
+  {
+    "name": "Continuous Integration: Servers and Tools",
+    "url": "https://dzone.com/refcardz/continuous-integration-servers"
+  },
+  {
+    "name": "Continuous Testing",
+    "url": "https://dzone.com/refcardz/continuous-testing-101"
+  },
+  {
+    "name": "Core .NET",
+    "url": "https://dzone.com/refcardz/coredotnet"
+  },
+  {
+    "name": "Core ASP.NET",
+    "url": "https://dzone.com/refcardz/core-aspnet"
+  },
+  {
+    "name": "Core C++",
+    "url": "https://dzone.com/refcardz/core-cpp"
+  },
+  {
+    "name": "Core CSS: Part I",
+    "url": "https://dzone.com/refcardz/corecss-part1"
+  },
+  {
+    "name": "Core CSS: Part II",
+    "url": "https://dzone.com/refcardz/corecss2"
+  },
+  {
+    "name": "Core CSS: Part III",
+    "url": "https://dzone.com/refcardz/corecss3"
+  },
+  {
+    "name": "Core Dart",
+    "url": "https://dzone.com/refcardz/core-dart"
+  },
+  {
+    "name": "Core HTML",
+    "url": "https://dzone.com/refcardz/core-html"
+  },
+  {
+    "name": "Core JSON",
+    "url": "https://dzone.com/refcardz/core-json"
+  },
+  {
+    "name": "Core Java",
+    "url": "https://dzone.com/refcardz/core-java"
+  },
+  {
+    "name": "Core Java Concurrency",
+    "url": "https://dzone.com/refcardz/core-java-concurrency"
+  },
+  {
+    "name": "Core Jetty",
+    "url": "https://dzone.com/refcardz/jetty"
+  },
+  {
+    "name": "Core Mule",
+    "url": "https://dzone.com/refcardz/core-mule"
+  },
+  {
+    "name": "Core Python",
+    "url": "https://dzone.com/refcardz/core-python"
+  },
+  {
+    "name": "Core Seam",
+    "url": "https://dzone.com/refcardz/core-seam"
+  },
+  {
+    "name": "Core Spring Data",
+    "url": "https://dzone.com/refcardz/core-spring-data"
+  },
+  {
+    "name": "Core WS-BPEL: Business Process Execution Language",
+    "url": "https://dzone.com/refcardz/core-ws-bpel-business-process"
+  },
+  {
+    "name": "Data Warehousing",
+    "url": "https://dzone.com/refcardz/data-warehousing"
+  },
+  {
+    "name": "Database Monitoring",
+    "url": "https://dzone.com/refcardz/database-monitoring-2"
+  },
+  {
+    "name": "Database Partitioning with MySQL",
+    "url": "https://dzone.com/refcardz/database-partitioning"
+  },
+  {
+    "name": "Debugging JavaScript",
+    "url": "https://dzone.com/refcardz/debugging-javascript"
+  },
+  {
+    "name": "Declarative Pipeline With Jenkins",
+    "url": "https://dzone.com/refcardz/declarative-pipeline-with-jenkins"
+  },
+  {
+    "name": "Dependency Injection in EJB 3",
+    "url": "https://dzone.com/refcardz/dependency-injection-in-ejb3"
+  },
+  {
+    "name": "Deployment Automation Patterns",
+    "url": "https://dzone.com/refcardz/deployment-automation-patterns"
+  },
+  {
+    "name": "Design Patterns",
+    "url": "https://dzone.com/refcardz/design-patterns"
+  },
+  {
+    "name": "Design Systems",
+    "url": "https://dzone.com/refcardz/design-systems-1"
+  },
+  {
+    "name": "Designing Quality Software",
+    "url": "https://dzone.com/refcardz/designing-quality-software"
+  },
+  {
+    "name": "DevOps for Database",
+    "url": "https://dzone.com/refcardz/devops-for-database"
+  },
+  {
+    "name": "Developing a Silverlight Application for Windows Phone",
+    "url": "https://dzone.com/refcardz/developing-silverlight"
+  },
+  {
+    "name": "Distributed Machine Learning with Apache Mahout",
+    "url": "https://dzone.com/refcardz/distributed-machine-learning"
+  },
+  {
+    "name": "Docker Security",
+    "url": "https://dzone.com/refcardz/docker-security"
+  },
+  {
+    "name": "Domain-Driven Design",
+    "url": "https://dzone.com/refcardz/getting-started-domain-driven"
+  },
+  {
+    "name": "Eclipse Plug-in Development",
+    "url": "https://dzone.com/refcardz/eclipse-plug-development"
+  },
+  {
+    "name": "Eclipse Tools for Spring",
+    "url": "https://dzone.com/refcardz/eclipse-tools-spring"
+  },
+  {
+    "name": "EclipseLink JPA",
+    "url": "https://dzone.com/refcardz/eclipselink-jpa"
+  },
+  {
+    "name": "Effective Process Modeling with BPM &amp;amp; BPMN",
+    "url": "https://dzone.com/refcardz/bpm-bpmn"
+  },
+  {
+    "name": "Essential Apache HBase",
+    "url": "https://dzone.com/refcardz/hbase"
+  },
+  {
+    "name": "Essential Apache HTTP Server",
+    "url": "https://dzone.com/refcardz/essential-apache-http-server"
+  },
+  {
+    "name": "Essential Couchbase APIs",
+    "url": "https://dzone.com/refcardz/couchbase-apis"
+  },
+  {
+    "name": "Essential EMF",
+    "url": "https://dzone.com/refcardz/essential-emf"
+  },
+  {
+    "name": "Essential F#",
+    "url": "https://dzone.com/refcardz/essential-f"
+  },
+  {
+    "name": "Essential JSP Expression Language",
+    "url": "https://dzone.com/refcardz/essential-jsp-expression"
+  },
+  {
+    "name": "Essential Liferay",
+    "url": "https://dzone.com/refcardz/essential-liferay-leading-open"
+  },
+  {
+    "name": "Essential MySQL",
+    "url": "https://dzone.com/refcardz/essential-mysql"
+  },
+  {
+    "name": "Essential NetBeans Platform",
+    "url": "https://dzone.com/refcardz/netbeans-platform-70"
+  },
+  {
+    "name": "Essential PostGIS",
+    "url": "https://dzone.com/refcardz/essential-postgis"
+  },
+  {
+    "name": "Essential PostgreSQL",
+    "url": "https://dzone.com/refcardz/essential-postgresql"
+  },
+  {
+    "name": "Essential Ruby",
+    "url": "https://dzone.com/refcardz/essential-ruby"
+  },
+  {
+    "name": "Expression-Based Authorization with Spring Security 3",
+    "url": "https://dzone.com/refcardz/expression-based-authorization"
+  },
+  {
+    "name": "Flex &amp;amp; Spring Integration",
+    "url": "https://dzone.com/refcardz/flex-spring-integration"
+  },
+  {
+    "name": "Flex 4 &amp;amp; Spring 3 Integration",
+    "url": "https://dzone.com/refcardz/flex-4-and-spring-3"
+  },
+  {
+    "name": "Flex Mobile Development",
+    "url": "https://dzone.com/refcardz/flex-mobile-development-build"
+  },
+  {
+    "name": "Flexible Rails: Flex 3 on Rails 2",
+    "url": "https://dzone.com/refcardz/flexible-rails"
+  },
+  {
+    "name": "Foundations of RESTful Architecture",
+    "url": "https://dzone.com/refcardz/rest-foundations-restful"
+  },
+  {
+    "name": "From Relational to Graph: A Developer's Guide",
+    "url": "https://dzone.com/refcardz/from-relational-to-graph-a-developers-guide"
+  },
+  {
+    "name": "Functional Programming in JavaScript",
+    "url": "https://dzone.com/refcardz/functional-programming-with-javascript"
+  },
+  {
+    "name": "Functional Programming with Clojure",
+    "url": "https://dzone.com/refcardz/functional-programming-clojure"
+  },
+  {
+    "name": "GWT Style, Configuration and JSNI Reference",
+    "url": "https://dzone.com/refcardz/gwt-style-configuration-and-js"
+  },
+  {
+    "name": "Getting Started Firebug 1.5",
+    "url": "https://dzone.com/refcardz/getting-started-firebug-15"
+  },
+  {
+    "name": "Getting Started With Adobe ColdFusion Builder",
+    "url": "https://dzone.com/refcardz/getting-started-adobe"
+  },
+  {
+    "name": "Getting Started With Adobe Flash Builder 4",
+    "url": "https://dzone.com/refcardz/getting-started-adobe-flash"
+  },
+  {
+    "name": "Getting Started With Adobe Flash Catalyst",
+    "url": "https://dzone.com/refcardz/getting-started-adobe-flash-0"
+  },
+  {
+    "name": "Getting Started With Apache Hadoop",
+    "url": "https://dzone.com/refcardz/getting-started-apache-hadoop"
+  },
+  {
+    "name": "Getting Started With Apache JMeter",
+    "url": "https://dzone.com/refcardz/getting-started-with-apache-jmeter"
+  },
+  {
+    "name": "Getting Started With Apache Tomcat",
+    "url": "https://dzone.com/refcardz/getting-started-with-apache-tomcat"
+  },
+  {
+    "name": "Getting Started With Appium",
+    "url": "https://dzone.com/refcardz/getting-started-with-appium"
+  },
+  {
+    "name": "Getting Started With Caucho Resin",
+    "url": "https://dzone.com/refcardz/getting-started-caucho-resin"
+  },
+  {
+    "name": "Getting Started With ColdFusion 9",
+    "url": "https://dzone.com/refcardz/getting-started-coldfusion-9"
+  },
+  {
+    "name": "Getting Started With Docker",
+    "url": "https://dzone.com/refcardz/getting-started-with-docker-1"
+  },
+  {
+    "name": "Getting Started With Ethereum Private Blockchain",
+    "url": "https://dzone.com/refcardz/getting-started-with-etherium-private-blockchain"
+  },
+  {
+    "name": "Getting Started With Git",
+    "url": "https://dzone.com/refcardz/getting-started-git"
+  },
+  {
+    "name": "Getting Started With Griffon",
+    "url": "https://dzone.com/refcardz/getting-started-griffon"
+  },
+  {
+    "name": "Getting Started With Industrial Internet",
+    "url": "https://dzone.com/refcardz/getting-started-with-industrial-internet"
+  },
+  {
+    "name": "Getting Started With Integrating PHP and Flex",
+    "url": "https://dzone.com/refcardz/getting-started-php-and-flex"
+  },
+  {
+    "name": "Getting Started With JBoss Enterprise Application Platform 7",
+    "url": "https://dzone.com/refcardz/getting-started-jboss"
+  },
+  {
+    "name": "Getting Started With Java-Based CMS",
+    "url": "https://dzone.com/refcardz/getting-started-with-java-based-cms"
+  },
+  {
+    "name": "Getting Started With Kotlin",
+    "url": "https://dzone.com/refcardz/getting-started-with-kotlin"
+  },
+  {
+    "name": "Getting Started With Kubernetes",
+    "url": "https://dzone.com/refcardz/kubernetes-essentials"
+  },
+  {
+    "name": "Getting Started With LiveCycle Data Services ES",
+    "url": "https://dzone.com/refcardz/getting-started-livecycle-data"
+  },
+  {
+    "name": "Getting Started With MQTT",
+    "url": "https://dzone.com/refcardz/getting-started-with-mqtt"
+  },
+  {
+    "name": "Getting Started With Memcached",
+    "url": "https://dzone.com/refcardz/getting-started-with-memcached"
+  },
+  {
+    "name": "Getting Started With Microservices",
+    "url": "https://dzone.com/refcardz/getting-started-with-microservices"
+  },
+  {
+    "name": "Getting Started With OpenStack",
+    "url": "https://dzone.com/refcardz/getting-started-openstack-most"
+  },
+  {
+    "name": "Getting Started With PhoneGap",
+    "url": "https://dzone.com/refcardz/getting-started-phonegap"
+  },
+  {
+    "name": "Getting Started With Play Framework",
+    "url": "https://dzone.com/refcardz/getting-started-play-framework"
+  },
+  {
+    "name": "Getting Started With Real User Monitoring",
+    "url": "https://dzone.com/refcardz/getting-started-with-real-user-monitoring"
+  },
+  {
+    "name": "Getting Started With Redis",
+    "url": "https://dzone.com/refcardz/getting-started-with-redis"
+  },
+  {
+    "name": "Getting Started With Scala",
+    "url": "https://dzone.com/refcardz/scala"
+  },
+  {
+    "name": "Getting Started With Selenium",
+    "url": "https://dzone.com/refcardz/getting-started-selenium"
+  },
+  {
+    "name": "Getting Started With Spring Boot and Microservices",
+    "url": "https://dzone.com/refcardz/getting-started-with-spring-boot-and-microservices"
+  },
+  {
+    "name": "Getting Started With Vaadin 10",
+    "url": "https://dzone.com/refcardz/getting-started-vaadin"
+  },
+  {
+    "name": "Getting Started With db4o",
+    "url": "https://dzone.com/refcardz/getting-started-db4o"
+  },
+  {
+    "name": "Getting Started with ASP.NET MVC 1.0",
+    "url": "https://dzone.com/refcardz/getting-started-aspnet-mvc-10"
+  },
+  {
+    "name": "Getting Started with Ajax",
+    "url": "https://dzone.com/refcardz/getting-started-ajax"
+  },
+  {
+    "name": "Getting Started with Apache Ant",
+    "url": "https://dzone.com/refcardz/getting-started-apache-ant"
+  },
+  {
+    "name": "Getting Started with Apache Wicket",
+    "url": "https://dzone.com/refcardz/getting-started-apache-wicket"
+  },
+  {
+    "name": "Getting Started with Application Lifecycle Management",
+    "url": "https://dzone.com/refcardz/getting-started-application"
+  },
+  {
+    "name": "Getting Started with BIRT",
+    "url": "https://dzone.com/refcardz/birt"
+  },
+  {
+    "name": "Getting Started with BlazeDS",
+    "url": "https://dzone.com/refcardz/getting-started-blazeds"
+  },
+  {
+    "name": "Getting Started with Drupal 7",
+    "url": "https://dzone.com/refcardz/getting-started-drupal"
+  },
+  {
+    "name": "Getting Started with Eclipse",
+    "url": "https://dzone.com/refcardz/getting-started-eclipse"
+  },
+  {
+    "name": "Getting Started with Eclipse RCP",
+    "url": "https://dzone.com/refcardz/getting-started-eclipse-rcp"
+  },
+  {
+    "name": "Getting Started with Equinox and OSGi",
+    "url": "https://dzone.com/refcardz/equinox"
+  },
+  {
+    "name": "Getting Started with FitNesse",
+    "url": "https://dzone.com/refcardz/getting-started-fitnesse"
+  },
+  {
+    "name": "Getting Started with GlassFish",
+    "url": "https://dzone.com/refcardz/glassfish-application-server"
+  },
+  {
+    "name": "Getting Started with Grails",
+    "url": "https://dzone.com/refcardz/getting-started-grails"
+  },
+  {
+    "name": "Getting Started with Hibernate Search",
+    "url": "https://dzone.com/refcardz/getting-started-with-hibernate"
+  },
+  {
+    "name": "Getting Started with Infinispan",
+    "url": "https://dzone.com/refcardz/getting-started-infinispan"
+  },
+  {
+    "name": "Getting Started with JPA",
+    "url": "https://dzone.com/refcardz/getting-started-with-jpa"
+  },
+  {
+    "name": "Getting Started with Java GUI Development",
+    "url": "https://dzone.com/refcardz/getting-started-java-gui"
+  },
+  {
+    "name": "Getting Started with Kanban for Software Development",
+    "url": "https://dzone.com/refcardz/getting-started-kanban"
+  },
+  {
+    "name": "Getting Started with Maven Repository Management",
+    "url": "https://dzone.com/refcardz/getting-started-repository"
+  },
+  {
+    "name": "Getting Started with MyEclipse",
+    "url": "https://dzone.com/refcardz/myeclipse"
+  },
+  {
+    "name": "Getting Started with NoSQL and Data Scalability",
+    "url": "https://dzone.com/refcardz/getting-started-nosql-and-data"
+  },
+  {
+    "name": "Getting Started with Oracle Berkeley DB",
+    "url": "https://dzone.com/refcardz/getting-started-oracle"
+  },
+  {
+    "name": "Getting Started with Silverlight and Expression Blend",
+    "url": "https://dzone.com/refcardz/getting-started-silverlight"
+  },
+  {
+    "name": "Getting Started with Spring-DM",
+    "url": "https://dzone.com/refcardz/getting-started-spring-dm"
+  },
+  {
+    "name": "Getting Started with UML",
+    "url": "https://dzone.com/refcardz/getting-started-uml"
+  },
+  {
+    "name": "Getting Started with Virtualization",
+    "url": "https://dzone.com/refcardz/getting-started-virtualization"
+  },
+  {
+    "name": "Getting Started with Visual Studio 2010",
+    "url": "https://dzone.com/refcardz/getting-started-visual-studio"
+  },
+  {
+    "name": "Getting Started with Windows Communication Foundation 4.0",
+    "url": "https://dzone.com/refcardz/getting-started-windows-0"
+  },
+  {
+    "name": "Getting Started with Windows Presentation Foundation",
+    "url": "https://dzone.com/refcardz/getting-started-windows"
+  },
+  {
+    "name": "Getting Started with the Zend Framework",
+    "url": "https://dzone.com/refcardz/getting-started-zend-framework"
+  },
+  {
+    "name": "Getting to Know Google Compute Engine and How to Use It",
+    "url": "https://dzone.com/refcardz/getting-to-know-google-compute-engine-and-how-to-u"
+  },
+  {
+    "name": "Git Patterns and Anti-Patterns",
+    "url": "https://dzone.com/refcardz/git-patterns-and-anti-patterns"
+  },
+  {
+    "name": "Google App Engine for Java",
+    "url": "https://dzone.com/refcardz/google-app-engine-java"
+  },
+  {
+    "name": "Graph-Powered Search: Neo4j &amp;amp; Elasticsearch",
+    "url": "https://dzone.com/refcardz/graph-powered-search-neo4j-amp-elasticsearch"
+  },
+  {
+    "name": "Groovy",
+    "url": "https://dzone.com/refcardz/groovy"
+  },
+  {
+    "name": "HTML5 Canvas",
+    "url": "https://dzone.com/refcardz/html5-canvas-web-standard"
+  },
+  {
+    "name": "HTML5 IndexedDB",
+    "url": "https://dzone.com/refcardz/html5-indexeddb"
+  },
+  {
+    "name": "HTML5 Mobile Development",
+    "url": "https://dzone.com/refcardz/html5-mobile-development"
+  },
+  {
+    "name": "HTML5 Web Workers",
+    "url": "https://dzone.com/refcardz/html5-web-workers"
+  },
+  {
+    "name": "HTML5 WebSocket",
+    "url": "https://dzone.com/refcardz/html5-websocket"
+  },
+  {
+    "name": "HTML5: The Evolution of Web Standards",
+    "url": "https://dzone.com/refcardz/html5-new-standards-web-interactivity"
+  },
+  {
+    "name": "Improving Web Performance With Varnish",
+    "url": "https://dzone.com/refcardz/improving-web-performance-with-varnish"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "url": "https://dzone.com/refcardz/intellij-idea"
+  },
+  {
+    "name": "IntelliJ IDEA Essentials",
+    "url": "https://dzone.com/refcardz/intellij-idea-update"
+  },
+  {
+    "name": "Introduction to DevOps Analytics",
+    "url": "https://dzone.com/refcardz/introduction-to-devops-analytics"
+  },
+  {
+    "name": "Introduction to DevSecOps",
+    "url": "https://dzone.com/refcardz/introduction-to-devsecops"
+  },
+  {
+    "name": "Introduction to Docker Monitoring",
+    "url": "https://dzone.com/refcardz/intro-to-docker-monitoring"
+  },
+  {
+    "name": "Introduction to HTTP",
+    "url": "https://dzone.com/refcardz/http-hypertext-transfer-0"
+  },
+  {
+    "name": "Introduction to Hazelcast IMDG",
+    "url": "https://dzone.com/refcardz/introduction-to-hazelcast-imdg-4"
+  },
+  {
+    "name": "Introduction to IAST",
+    "url": "https://dzone.com/refcardz/introduction-to-iast"
+  },
+  {
+    "name": "Introduction to RASP",
+    "url": "https://dzone.com/refcardz/introduction-to-rasp"
+  },
+  {
+    "name": "Introduction to TensorFlow",
+    "url": "https://dzone.com/refcardz/introduction-to-tensorflow"
+  },
+  {
+    "name": "Introduction to Web Components",
+    "url": "https://dzone.com/refcardz/introduction-to-web-components-and-polymer"
+  },
+  {
+    "name": "IoT Applications With Java and Raspberry Pi",
+    "url": "https://dzone.com/refcardz/iot-applications-with-java-and-raspberry-pi"
+  },
+  {
+    "name": "JBoss RichFaces",
+    "url": "https://dzone.com/refcardz/richfaces"
+  },
+  {
+    "name": "JDBC Best Practices",
+    "url": "https://dzone.com/refcardz/jdbc-best-practices"
+  },
+  {
+    "name": "JUnit and EasyMock",
+    "url": "https://dzone.com/refcardz/junit-and-easymock"
+  },
+  {
+    "name": "Java API Best Practices",
+    "url": "https://dzone.com/refcardz/java-api-best-practices"
+  },
+  {
+    "name": "Java Application Vulnerabilities",
+    "url": "https://dzone.com/refcardz/java-application-vulnerabilities"
+  },
+  {
+    "name": "Java Caching",
+    "url": "https://dzone.com/refcardz/java-caching"
+  },
+  {
+    "name": "Java Containerization",
+    "url": "https://dzone.com/refcardz/java-containerization"
+  },
+  {
+    "name": "Java EE Security Essentials",
+    "url": "https://dzone.com/refcardz/getting-started-java-ee"
+  },
+  {
+    "name": "Java Enterprise Edition 6",
+    "url": "https://dzone.com/refcardz/java-enterprise-edition-6-most"
+  },
+  {
+    "name": "Java Enterprise Edition 7",
+    "url": "https://dzone.com/refcardz/java-enterprise-edition-7"
+  },
+  {
+    "name": "Java FX",
+    "url": "https://dzone.com/refcardz/javafx-20-rich-client-platform"
+  },
+  {
+    "name": "Java Performance Optimization",
+    "url": "https://dzone.com/refcardz/java-performance-optimization"
+  },
+  {
+    "name": "Java Profiling with VisualVM",
+    "url": "https://dzone.com/refcardz/java-profiling-visualvm"
+  },
+  {
+    "name": "JavaFX",
+    "url": "https://dzone.com/refcardz/getting-started-javafx"
+  },
+  {
+    "name": "JavaFX 8",
+    "url": "https://dzone.com/refcardz/javafx-8-1"
+  },
+  {
+    "name": "JavaServer Faces",
+    "url": "https://dzone.com/refcardz/javaserver-faces"
+  },
+  {
+    "name": "JavaServer Faces 2.0",
+    "url": "https://dzone.com/refcardz/javaserver-faces-20"
+  },
+  {
+    "name": "Jenkins on PaaS",
+    "url": "https://dzone.com/refcardz/jenkins-paas"
+  },
+  {
+    "name": "Lean Software Development",
+    "url": "https://dzone.com/refcardz/getting-started-lean-software"
+  },
+  {
+    "name": "Leveraging ColdFusion 9 Exposed Services from Java",
+    "url": "https://dzone.com/refcardz/leveraging-coldfusion-9"
+  },
+  {
+    "name": "Log Management",
+    "url": "https://dzone.com/refcardz/log-management"
+  },
+  {
+    "name": "Low-Code Application Development",
+    "url": "https://dzone.com/refcardz/low-code-application-development"
+  },
+  {
+    "name": "Machine Learning",
+    "url": "https://dzone.com/refcardz/machine-learning-predictive"
+  },
+  {
+    "name": "Mastering Portal UI",
+    "url": "https://dzone.com/refcardz/mastering-portal-ui"
+  },
+  {
+    "name": "Mastering Portals with a Portlet Bridge",
+    "url": "https://dzone.com/refcardz/mastering-portals-portlet"
+  },
+  {
+    "name": "Messaging Infrastructure for IoT at Scale",
+    "url": "https://dzone.com/refcardz/messaging-infrastructure-for-iot-at-scale"
+  },
+  {
+    "name": "Microservices in Java",
+    "url": "https://dzone.com/refcardz/learn-microservices-in-java"
+  },
+  {
+    "name": "Mobile Web Application Testing",
+    "url": "https://dzone.com/refcardz/mobile-web-application-testing"
+  },
+  {
+    "name": "Mockito",
+    "url": "https://dzone.com/refcardz/mockito"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://dzone.com/refcardz/mongodb"
+  },
+  {
+    "name": "Monitoring NGINX",
+    "url": "https://dzone.com/refcardz/monitoring-nginx"
+  },
+  {
+    "name": "Mule 3.3",
+    "url": "https://dzone.com/refcardz/essential-mule-3-3"
+  },
+  {
+    "name": "NetBeans IDE 7 Java Editor",
+    "url": "https://dzone.com/refcardz/netbeans"
+  },
+  {
+    "name": "NoSQL and Data Scalability",
+    "url": "https://dzone.com/refcardz/nosql-and-data-scalability-20"
+  },
+  {
+    "name": "Node.js",
+    "url": "https://dzone.com/refcardz/nodejs"
+  },
+  {
+    "name": "Object-Oriented JavaScript",
+    "url": "https://dzone.com/refcardz/object-oriented-javascript"
+  },
+  {
+    "name": "Objective-C for the iPhone and iPad",
+    "url": "https://dzone.com/refcardz/objective-c-iphone-and-ipad"
+  },
+  {
+    "name": "Open Source Media Framework",
+    "url": "https://dzone.com/refcardz/getting-started-web-video"
+  },
+  {
+    "name": "PHP 5.4",
+    "url": "https://dzone.com/refcardz/php-54-scalable"
+  },
+  {
+    "name": "PHP 5.5 &amp;amp; 5.6",
+    "url": "https://dzone.com/refcardz/whats-new-php-55-56"
+  },
+  {
+    "name": "PHPUnit: PHP Test-Driven Development Automated Tools to Improve Your PHP Code Quality",
+    "url": "https://dzone.com/refcardz/phpunit-php-test-driven"
+  },
+  {
+    "name": "Patterns of Modular Architecture",
+    "url": "https://dzone.com/refcardz/patterns-modular-architecture"
+  },
+  {
+    "name": "Persistent Container Storage",
+    "url": "https://dzone.com/refcardz/persistent-container-storage"
+  },
+  {
+    "name": "Practical DNS",
+    "url": "https://dzone.com/refcardz/dns"
+  },
+  {
+    "name": "Practical Data Mining with Python",
+    "url": "https://dzone.com/refcardz/data-mining-discovering-and"
+  },
+  {
+    "name": "Preparing for Continuous Delivery",
+    "url": "https://dzone.com/refcardz/preparing-continuous-delivery"
+  },
+  {
+    "name": "Querying Graphs with Neo4j",
+    "url": "https://dzone.com/refcardz/querying-graphs-neo4j"
+  },
+  {
+    "name": "R Essentials",
+    "url": "https://dzone.com/refcardz/r-essentials-1"
+  },
+  {
+    "name": "REST API Security",
+    "url": "https://dzone.com/refcardz/rest-api-security-1"
+  },
+  {
+    "name": "RESTful API Lifecycle Management",
+    "url": "https://dzone.com/refcardz/restful-api-lifecycle-management"
+  },
+  {
+    "name": "RSS and Atom",
+    "url": "https://dzone.com/refcardz/rss-and-atom"
+  },
+  {
+    "name": "RavenDB 4.0",
+    "url": "https://dzone.com/refcardz/ravendb-40-1"
+  },
+  {
+    "name": "React.js Essentials",
+    "url": "https://dzone.com/refcardz/reactjs-essentials"
+  },
+  {
+    "name": "Reactive Microservices With Lagom and Java",
+    "url": "https://dzone.com/refcardz/reactive-microservices-with-lagom-and-java"
+  },
+  {
+    "name": "Reactive Programming in JavaScript With RxJS",
+    "url": "https://dzone.com/refcardz/rxjs-streams"
+  },
+  {
+    "name": "Reactive Programming with Akka",
+    "url": "https://dzone.com/refcardz/reactive-programming-akka"
+  },
+  {
+    "name": "Recommendations Using Redis",
+    "url": "https://dzone.com/refcardz/recommendations-using-redis"
+  },
+  {
+    "name": "Refactoring Patterns",
+    "url": "https://dzone.com/refcardz/refactoring-patterns"
+  },
+  {
+    "name": "Regular Expressions",
+    "url": "https://dzone.com/refcardz/regular-expressions"
+  },
+  {
+    "name": "Responsive Web Design",
+    "url": "https://dzone.com/refcardz/responsive-web-design-8"
+  },
+  {
+    "name": "RichFaces 4.0",
+    "url": "https://dzone.com/refcardz/richfaces-40-next-generation"
+  },
+  {
+    "name": "SOA Governance",
+    "url": "https://dzone.com/refcardz/soa-governance"
+  },
+  {
+    "name": "SOA Patterns",
+    "url": "https://dzone.com/refcardz/soa-patterns"
+  },
+  {
+    "name": "SQL Syntax for Apache Drill",
+    "url": "https://dzone.com/refcardz/sql-syntax-for-apache-drill"
+  },
+  {
+    "name": "Scalability &amp;amp; High Availability",
+    "url": "https://dzone.com/refcardz/scalability"
+  },
+  {
+    "name": "Scrum",
+    "url": "https://dzone.com/refcardz/scrum"
+  },
+  {
+    "name": "Seam UI",
+    "url": "https://dzone.com/refcardz/seam-ui"
+  },
+  {
+    "name": "Search Patterns",
+    "url": "https://dzone.com/refcardz/search-patterns"
+  },
+  {
+    "name": "Securing Mobile Applications With Cert Pinning",
+    "url": "https://dzone.com/refcardz/securing-mobile-applications-with-cert-pinning"
+  },
+  {
+    "name": "Securing Your Kubernetes Deployment",
+    "url": "https://dzone.com/refcardz/kubernetes-security-1"
+  },
+  {
+    "name": "Selenium 2.0: Using the Webdriver API to Create Robust User Acceptance Tests",
+    "url": "https://dzone.com/refcardz/getting-started-selenium-20"
+  },
+  {
+    "name": "Sencha Touch",
+    "url": "https://dzone.com/refcardz/sencha-touch"
+  },
+  {
+    "name": "ServiceMix 4.2",
+    "url": "https://dzone.com/refcardz/servicemix"
+  },
+  {
+    "name": "Shifting Left With Continuous Delivery",
+    "url": "https://dzone.com/refcardz/shifting-left-with-continuous-delivery"
+  },
+  {
+    "name": "Silverlight 2",
+    "url": "https://dzone.com/refcardz/silverlight2"
+  },
+  {
+    "name": "Software Configuration Management Patterns",
+    "url": "https://dzone.com/refcardz/software-configuration"
+  },
+  {
+    "name": "Software Usage Analytics for Data-Driven Development",
+    "url": "https://dzone.com/refcardz/software-usage-analytics-for-data-driven-developme"
+  },
+  {
+    "name": "Spring Annotations",
+    "url": "https://dzone.com/refcardz/spring-annotations"
+  },
+  {
+    "name": "Spring Batch",
+    "url": "https://dzone.com/refcardz/spring-batch-refcard"
+  },
+  {
+    "name": "Spring Configuration",
+    "url": "https://dzone.com/refcardz/spring-configuration"
+  },
+  {
+    "name": "Spring Integration",
+    "url": "https://dzone.com/refcardz/spring-integration"
+  },
+  {
+    "name": "Spring Roo",
+    "url": "https://dzone.com/refcardz/spring-roo-open-source-rapid"
+  },
+  {
+    "name": "Spring Web Flow",
+    "url": "https://dzone.com/refcardz/spring-web-flow"
+  },
+  {
+    "name": "Struts2",
+    "url": "https://dzone.com/refcardz/struts2"
+  },
+  {
+    "name": "Subversion",
+    "url": "https://dzone.com/refcardz/getting-started-subversion"
+  },
+  {
+    "name": "Swift Essentials",
+    "url": "https://dzone.com/refcardz/swift-essentials"
+  },
+  {
+    "name": "Temporal Data Processing",
+    "url": "https://dzone.com/refcardz/temporal-data-processing"
+  },
+  {
+    "name": "Test Design Automation",
+    "url": "https://dzone.com/refcardz/test-design-automation"
+  },
+  {
+    "name": "The MVVM Design Pattern",
+    "url": "https://dzone.com/refcardz/mvvm-design-pattern-formula"
+  },
+  {
+    "name": "The Top Twelve Integration Patterns for Apache Camel",
+    "url": "https://dzone.com/refcardz/enterprise-integration"
+  },
+  {
+    "name": "Understanding Cloud Computing",
+    "url": "https://dzone.com/refcardz/getting-started-cloud"
+  },
+  {
+    "name": "Understanding Data Quality",
+    "url": "https://dzone.com/refcardz/understanding-data-quality"
+  },
+  {
+    "name": "Understanding Lucene",
+    "url": "https://dzone.com/refcardz/lucene"
+  },
+  {
+    "name": "Understanding Stream Processing",
+    "url": "https://dzone.com/refcardz/understanding-stream-processing"
+  },
+  {
+    "name": "Using Repository Managers",
+    "url": "https://dzone.com/refcardz/binary-repository-management"
+  },
+  {
+    "name": "Using XML in Java",
+    "url": "https://dzone.com/refcardz/using-xml-java"
+  },
+  {
+    "name": "Very First Steps in Flex",
+    "url": "https://dzone.com/refcardz/very-first-steps-flex"
+  },
+  {
+    "name": "WebMatrix",
+    "url": "https://dzone.com/refcardz/webmatrix"
+  },
+  {
+    "name": "What's New in JPA 2.0",
+    "url": "https://dzone.com/refcardz/whats-new-jpa-20"
+  },
+  {
+    "name": "Windows PowerShell",
+    "url": "https://dzone.com/refcardz/windows-powershell"
+  },
+  {
+    "name": "Working With Time Series Data",
+    "url": "https://dzone.com/refcardz/working-with-time-series-data"
+  },
+  {
+    "name": "jQuery Selectors",
+    "url": "https://dzone.com/refcardz/jquery-selectors"
+  }
+]
