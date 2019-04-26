@@ -1,0 +1,30 @@
+// Login.
+LET doc = DOCUMENT("https://dzone.com/users/login.html", true)
+INPUT(doc, "form[role=form] input[name=j_username]", @username, 5)
+INPUT(doc, "form[role=form] input[name=j_password]", @password, 5)
+CLICK(doc, "button[type=submit]")
+WAIT_NAVIGATION(doc, 25000)
+
+// Loop in Refcardz on the 'Saved' content page of the user to get the links.
+LET origin_url = "https://dzone.com/users/" + @userid + "/" + @username + ".html?sort=saved"
+NAVIGATE(doc, origin_url, 25000)
+WAIT_ELEMENT(doc, 'p[class=comment-title]', 50000)
+LET titles = ELEMENTS(doc, 'div[class="col-md-11 comment-description"] p[class="comment-title"]')
+LET links = (
+  FOR el IN titles
+    LET refcard_name = ELEMENT(el, "a")
+    LET refcard_url = "https://dzone.com" + refcard_name.attributes.href
+    RETURN refcard_url
+)
+
+// Create JSON template with name and refcard number.
+FOR link_url IN links
+  NAVIGATE(doc, link_url, 50000)
+  WAIT_ELEMENT(doc, '.download', 5000)
+  LET refcard_name = ELEMENT(doc, 'div[class="asset-title col-xs-12"] h1[class="asset-title"]')
+  LET name = SUBSTITUTE(refcard_name.innerText, " ", "_")
+  LET refcard_number = ELEMENT(doc, 'span[class="asset-number ng-scope"]')
+  LET number = SUBSTITUTE(refcard_number.innerText, "Refcard #", "")
+  RETURN {
+    name: number + "_" + name + ".pdf",
+  }
