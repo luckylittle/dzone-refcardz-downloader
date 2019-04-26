@@ -1,0 +1,1492 @@
+[
+  {
+    "Number": 1,
+    "Name": "GWT Style Configuration and JSNI Reference",
+    "URL": "https://dzone.com/storage/assets/2805-rc001-gwt_style_online.pdf"
+  },
+  {
+    "Number": 2,
+    "Name": "Getting Started with Ajax",
+    "URL": "https://dzone.com/storage/assets/2935-rc002-ajax_online.pdf"
+  },
+  {
+    "Number": 3,
+    "Name": "Getting Started with Eclipse",
+    "URL": "https://dzone.com/storage/assets/6267444-dzone-rc003-eclipse.pdf"
+  },
+  {
+    "Number": 4,
+    "Name": "Spring Configuration",
+    "URL": "https://dzone.com/storage/assets/2839-rc004-spring_online.pdf"
+  },
+  {
+    "Number": 5,
+    "Name": "Windows PowerShell",
+    "URL": "https://dzone.com/storage/assets/4586-rc005-windowspowershell_online.pdf"
+  },
+  {
+    "Number": 6,
+    "Name": "Dependency Injection in EJB 3",
+    "URL": "https://dzone.com/storage/assets/2892-rc006-ejb_online.pdf<--"
+  },
+  {
+    "Number": 7,
+    "Name": "jQuery Selectors",
+    "URL": "https://dzone.com/storage/assets/4578-rc007-jquery_online.pdf"
+  },
+  {
+    "Number": 8,
+    "Name": "Design Patterns",
+    "URL": "https://dzone.com/storage/assets/6848282-rc0008-designpatterns-online.pdf"
+  },
+  {
+    "Number": 9,
+    "Name": "Flexible Rails: Flex 3 on Rails 2",
+    "URL": "https://dzone.com/storage/assets/3068-rc009-flexiblerails_online.pdf"
+  },
+  {
+    "Number": 10,
+    "Name": "Silverlight 2",
+    "URL": "https://dzone.com/storage/assets/3063-rc010-silverlight_online.pdf"
+  },
+  {
+    "Number": 11,
+    "Name": "IntelliJ IDEA",
+    "URL": "https://dzone.com/storage/assets/7348786-dzone-rc-11-intellijidea.pdf"
+  },
+  {
+    "Number": 12,
+    "Name": "Getting Started with GlassFish",
+    "URL": "https://dzone.com/storage/assets/3086-rc012-010d-glassfish-appserver-update_1.pdf"
+  },
+  {
+    "Number": 13,
+    "Name": "RSS and Atom",
+    "URL": "https://dzone.com/storage/assets/3178-rc013-010d-rssatom.pdf"
+  },
+  {
+    "Number": 14,
+    "Name": "NetBeans IDE 7 Java Editor",
+    "URL": "https://dzone.com/storage/assets/3202-rc014-010d-netbeanside7-update.pdf"
+  },
+  {
+    "Number": 15,
+    "Name": "Groovy",
+    "URL": "https://dzone.com/storage/assets/4568-rc015-groovy_online.pdf"
+  },
+  {
+    "Number": 16,
+    "Name": "C# Development",
+    "URL": "https://dzone.com/storage/assets/4471-rc16-010d-csharp_1.pdf"
+  },
+  {
+    "Number": 17,
+    "Name": "Very First Steps in Flex",
+    "URL": "https://dzone.com/storage/assets/3830-rc017-adobeflex_online.pdf"
+  },
+  {
+    "Number": 18,
+    "Name": "Core .NET",
+    "URL": "https://dzone.com/storage/assets/948344-dzone-rc-core-dotnet.pdf"
+  },
+  {
+    "Number": 19,
+    "Name": "Core CSS Part I",
+    "URL": "https://dzone.com/storage/assets/3965-rc019-corecss1_online.pdf"
+  },
+  {
+    "Number": 20,
+    "Name": "Struts2",
+    "URL": "https://dzone.com/storage/assets/3939-rc020-010d-struts2_0.pdf"
+  },
+  {
+    "Number": 21,
+    "Name": "JavaServer Faces",
+    "URL": "https://dzone.com/storage/assets/3985-rc021-jsf_online.pdf"
+  },
+  {
+    "Number": 22,
+    "Name": "Getting Started with JPA",
+    "URL": "https://dzone.com/storage/assets/3976-rc022-jpa_online.pdf"
+  },
+  {
+    "Number": 23,
+    "Name": "PHP 5.4",
+    "URL": "https://dzone.com/storage/assets/4494-rc023-020d-php5.4.pdf"
+  },
+  {
+    "Number": 24,
+    "Name": "Core Java",
+    "URL": "https://dzone.com/storage/assets/487673-rc024-corejava.pdf"
+  },
+  {
+    "Number": 25,
+    "Name": "Core CSS Part II",
+    "URL": "https://dzone.com/storage/assets/3995-rc025-corecss2_online.pdf"
+  },
+  {
+    "Number": 26,
+    "Name": "Spring Annotations",
+    "URL": "https://dzone.com/storage/assets/4082-rc026-springannot_online.pdf"
+  },
+  {
+    "Number": 27,
+    "Name": "Getting Started with MyEclipse",
+    "URL": "https://dzone.com/storage/assets/4005-rc027-myeclipse_online.pdf"
+  },
+  {
+    "Number": 28,
+    "Name": "JUnit and EasyMock",
+    "URL": "https://dzone.com/storage/assets/4076-rc028-010d-junit_0.pdf"
+  },
+  {
+    "Number": 29,
+    "Name": "Essential MySQL",
+    "URL": "https://dzone.com/storage/assets/4107-rc029-010d-essential-admin-mysql5.5_1.pdf"
+  },
+  {
+    "Number": 30,
+    "Name": "Essential Ruby",
+    "URL": "https://dzone.com/storage/assets/4097-rc030-010d-ruby.pdf"
+  },
+  {
+    "Number": 31,
+    "Name": "Core Seam",
+    "URL": "https://dzone.com/storage/assets/4152-rc031-010d-seam_2.pdf"
+  },
+  {
+    "Number": 32,
+    "Name": "Getting Started with Hibernate Search",
+    "URL": "https://dzone.com/storage/assets/3592169-dzone-refcard-hibernatesearch-update.pdf"
+  },
+  {
+    "Number": 33,
+    "Name": "Essential JSP Expression Language",
+    "URL": "https://dzone.com/storage/assets/4174-rc033-010d-jsp.pdf"
+  },
+  {
+    "Number": 34,
+    "Name": "Core CSS Part III",
+    "URL": "https://dzone.com/storage/assets/4164-rc034-010d-css3.pdf"
+  },
+  {
+    "Number": 35,
+    "Name": "Using XML in Java",
+    "URL": "https://dzone.com/storage/assets/4222-rc035-010d-xml.pdf"
+  },
+  {
+    "Number": 36,
+    "Name": "Core Mule",
+    "URL": "https://dzone.com/storage/assets/4234-rc040-010d-mule.pdf"
+  },
+  {
+    "Number": 37,
+    "Name": "Getting Started with Equinox and OSGi",
+    "URL": "https://dzone.com/storage/assets/4263-rc037-010d-equinox.pdf"
+  },
+  {
+    "Number": 38,
+    "Name": "SOA Patterns",
+    "URL": "https://dzone.com/storage/assets/4197-rc038-010d-soa.pdf"
+  },
+  {
+    "Number": 39,
+    "Name": "Essential EMF",
+    "URL": "https://dzone.com/storage/assets/4302-rc039-010d-emf.pdf"
+  },
+  {
+    "Number": 40,
+    "Name": "Apache Tapestry 5.0",
+    "URL": "https://dzone.com/storage/assets/4295-rc040-010-d-tapestry_2.pdf"
+  },
+  {
+    "Number": 41,
+    "Name": "SOA Governance",
+    "URL": "https://dzone.com/storage/assets/4323-rc041-010d-soa_governance.pdf"
+  },
+  {
+    "Number": 42,
+    "Name": "Seam UI",
+    "URL": "https://dzone.com/storage/assets/4312-rc042-010d-seam_ui_6.pdf"
+  },
+  {
+    "Number": 43,
+    "Name": "Scalability & High Availability",
+    "URL": "https://dzone.com/storage/assets/5747732-dzone-rc43-scalabilityandhighavailability.pdf"
+  },
+  {
+    "Number": 44,
+    "Name": "JBoss RichFaces",
+    "URL": "https://dzone.com/storage/assets/4332-rc044-010d-richfaces_0.pdf"
+  },
+  {
+    "Number": 45,
+    "Name": "Agile Adoption Decreasing Time to Market",
+    "URL": "https://dzone.com/storage/assets/4355-rc045-010d-agile_adoption.pdf"
+  },
+  {
+    "Number": 46,
+    "Name": "Core ASP.NET",
+    "URL": "https://dzone.com/storage/assets/4381-rc046-010d-core_asp_net.pdf"
+  },
+  {
+    "Number": 47,
+    "Name": "The Top Twelve Integration Patterns for Apache Camel",
+    "URL": "https://dzone.com/storage/assets/4379-rc047-010d-camel-update_5.pdf"
+  },
+  {
+    "Number": 48,
+    "Name": "Flex & Spring Integration",
+    "URL": "https://dzone.com/storage/assets/4363-rc048-010d-flex-spring-integration.pdf"
+  },
+  {
+    "Number": 49,
+    "Name": "Getting Started with BIRT",
+    "URL": "https://dzone.com/storage/assets/4360-rc049-010d-birtupdated.pdf"
+  },
+  {
+    "Number": 50,
+    "Name": "Scrum",
+    "URL": "https://dzone.com/storage/assets/4290039-dzone-refcard50-ultimatescrum.pdf"
+  },
+  {
+    "Number": 51,
+    "Name": "Effective Process Modeling with BPM & BPMN",
+    "URL": "https://dzone.com/storage/assets/4329-rc051-010d-bpm_bpmn.pdf"
+  },
+  {
+    "Number": 52,
+    "Name": "IntelliJ IDEA Essentials",
+    "URL": "https://dzone.com/storage/assets/121083-rc052_intellij-idea-15.pdf"
+  },
+  {
+    "Number": 53,
+    "Name": "Getting Started With db4o",
+    "URL": "https://dzone.com/storage/assets/4319-rc053-010d-db4o_1.pdf"
+  },
+  {
+    "Number": 54,
+    "Name": "Agile Adoption Reducing Cost",
+    "URL": "https://dzone.com/storage/assets/4316-rc054-010d-agile_adoption-reducecost.pdf"
+  },
+  {
+    "Number": 55,
+    "Name": "Apache Maven 2",
+    "URL": "https://dzone.com/storage/assets/4310-rc055-010d-apachemaven-1.pdf"
+  },
+  {
+    "Number": 56,
+    "Name": "JavaFX",
+    "URL": "https://dzone.com/storage/assets/4303-rc056-010d-javafx_0.pdf"
+  },
+  {
+    "Number": 57,
+    "Name": "Getting Started with Spring-DM",
+    "URL": "https://dzone.com/storage/assets/4298-rc057-010d-springdm_0.pdf"
+  },
+  {
+    "Number": 58,
+    "Name": "JavaServer Faces 2.0",
+    "URL": "https://dzone.com/storage/assets/4288-rc058-010d-jsf2.pdf"
+  },
+  {
+    "Number": 59,
+    "Name": "Getting Started with Drupal 7",
+    "URL": "https://dzone.com/storage/assets/4287-rc59-drupal-update_2.pdf"
+  },
+  {
+    "Number": 60,
+    "Name": "Getting Started with Grails",
+    "URL": "https://dzone.com/storage/assets/4281-rc060-010d-getting-started-grails_2.pdf"
+  },
+  {
+    "Number": 61,
+    "Name": "Core Java Concurrency",
+    "URL": "https://dzone.com/storage/assets/7862400-dzone-rc061-corejavaconcurrency.pdf"
+  },
+  {
+    "Number": 62,
+    "Name": "Getting Started with Eclipse RCP",
+    "URL": "https://dzone.com/storage/assets/4269-rc062-010-eclipse_rcp_0.pdf"
+  },
+  {
+    "Number": 63,
+    "Name": "Getting Started with Apache Wicket",
+    "URL": "https://dzone.com/storage/assets/4260-rc063-010d-apache_wicket_1.pdf"
+  },
+  {
+    "Number": 64,
+    "Name": "Core HTML",
+    "URL": "https://dzone.com/storage/assets/4254-rc064-010d-core_html_1.pdf"
+  },
+  {
+    "Number": 65,
+    "Name": "ServiceMix 4.2",
+    "URL": "https://dzone.com/storage/assets/4239-rc065-010d-servicemix-update42_0.pdf"
+  },
+  {
+    "Number": 66,
+    "Name": "Getting Started With ColdFusion 9",
+    "URL": "https://dzone.com/storage/assets/4233-rc066-010d-coldfusion9_2.pdf"
+  },
+  {
+    "Number": 67,
+    "Name": "Getting Started With Selenium",
+    "URL": "https://dzone.com/storage/assets/8546010-dzone-refcardz-selenium.pdf"
+  },
+  {
+    "Number": 68,
+    "Name": "Getting Started with Oracle Berkeley DB",
+    "URL": "https://dzone.com/storage/assets/4210-rc068-010-oracle-berkeley-db.pdf"
+  },
+  {
+    "Number": 69,
+    "Name": "Getting Started with ASP.NET MVC 1.0",
+    "URL": "https://dzone.com/storage/assets/4186-rc069-010d-asp_net_mvc-1.pdf"
+  },
+  {
+    "Number": 70,
+    "Name": "Eclipse Plug-in Development",
+    "URL": "https://dzone.com/storage/assets/4411-rc070-010d-eclipse-plugin-dev_0.pdf"
+  },
+  {
+    "Number": 71,
+    "Name": "Essential PostgreSQL",
+    "URL": "https://dzone.com/storage/assets/52492-rc071_postgresql.pdf"
+  },
+  {
+    "Number": 72,
+    "Name": "Getting Started with Windows Presentation Foundation",
+    "URL": "https://dzone.com/storage/assets/4418-rc072-010d-wpf_0.pdf"
+  },
+  {
+    "Number": 73,
+    "Name": "Getting Started With LiveCycle Data Services ES",
+    "URL": "https://dzone.com/storage/assets/4425-rc073-010d-lcds_0.pdf"
+  },
+  {
+    "Number": 74,
+    "Name": "Agile Adoption Improving Software Quality",
+    "URL": "https://dzone.com/storage/assets/4428-rc074-010d-agile_improve_quality.pdf"
+  },
+  {
+    "Number": 75,
+    "Name": "Getting Started with BlazeDS",
+    "URL": "https://dzone.com/storage/assets/4435-rc075-010d-blazeds_0.pdf"
+  },
+  {
+    "Number": 76,
+    "Name": "Domain-Driven Design",
+    "URL": "https://dzone.com/storage/assets/1216461-dzone-rc-domain-driven-design.pdf"
+  },
+  {
+    "Number": 77,
+    "Name": "Core WS-BPEL Business Process Execution Language",
+    "URL": "https://dzone.com/storage/assets/4441-rc077-010d-bpel.pdf"
+  },
+  {
+    "Number": 78,
+    "Name": "Getting Started with Virtualization",
+    "URL": "https://dzone.com/storage/assets/4444-rc078-010d-virtualization_1.pdf"
+  },
+  {
+    "Number": 79,
+    "Name": "Google App Engine for Java",
+    "URL": "https://dzone.com/storage/assets/4447-rc079-010d-google-app-engine-4.pdf"
+  },
+  {
+    "Number": 80,
+    "Name": "Essential NetBeans Platform",
+    "URL": "https://dzone.com/storage/assets/4402-rc080-010d-netbeansplat7-update.pdf"
+  },
+  {
+    "Number": 81,
+    "Name": "Essential F#",
+    "URL": "https://dzone.com/storage/assets/4405-rc081-010d-fsharp.pdf"
+  },
+  {
+    "Number": 82,
+    "Name": "Understanding Cloud Computing",
+    "URL": "https://dzone.com/storage/assets/4654965-dzone-rc82-cloud-computing.pdf"
+  },
+  {
+    "Number": 83,
+    "Name": "Contexts and Dependency Injection for the Java EE Platform",
+    "URL": "https://dzone.com/storage/assets/3639270-dzone-refcard83-cdi.pdf"
+  },
+  {
+    "Number": 84,
+    "Name": "Continuous Integration",
+    "URL": "https://dzone.com/storage/assets/11565134-dzone-refcard84-cipatternsandantipatterns.pdf"
+  },
+  {
+    "Number": 85,
+    "Name": "Getting Started With Vaadin 10",
+    "URL": "https://dzone.com/storage/assets/9584499-dzone-refcard85-gettingstartedwithvaadin.pdf"
+  },
+  {
+    "Number": 86,
+    "Name": "Spring Web Flow",
+    "URL": "https://dzone.com/storage/assets/4266-rc086-010d-springwebflow.pdf"
+  },
+  {
+    "Number": 87,
+    "Name": "Continuous Integration Servers and Tools",
+    "URL": "https://dzone.com/storage/assets/4055325-dzone-refcard087-ci-serversandtools.pdf"
+  },
+  {
+    "Number": 88,
+    "Name": "Getting Started With Caucho Resin",
+    "URL": "https://dzone.com/storage/assets/4243-rc088-010d-caucho_resin_1.pdf"
+  },
+  {
+    "Number": 89,
+    "Name": "Getting Started with the Zend Framework",
+    "URL": "https://dzone.com/storage/assets/4236-rc089-010d-zendframework-2.pdf"
+  },
+  {
+    "Number": 90,
+    "Name": "Getting Started With Adobe ColdFusion Builder",
+    "URL": "https://dzone.com/storage/assets/4567-rc090-010d-coldfusion_builder.pdf"
+  },
+  {
+    "Number": 91,
+    "Name": "Getting Started With Adobe Flash Builder 4",
+    "URL": "https://dzone.com/storage/assets/4557-rc091-010d-flashbuilder4.pdf"
+  },
+  {
+    "Number": 92,
+    "Name": "Getting Started with Silverlight and Expression Blend",
+    "URL": "https://dzone.com/storage/assets/4520-rc092-010d-silverlightblend_1.pdf"
+  },
+  {
+    "Number": 93,
+    "Name": "Lean Software Development",
+    "URL": "https://dzone.com/storage/assets/9163261-dzone-refcard93-leansoftwaredevelopment.pdf"
+  },
+  {
+    "Number": 94,
+    "Name": "Getting Started With Git",
+    "URL": "https://dzone.com/storage/assets/11325551-dzone-refcard288-gettingstartedwithgit0221.pdf"
+  },
+  {
+    "Number": 95,
+    "Name": "Getting Started with Java GUI Development",
+    "URL": "https://dzone.com/storage/assets/4370-rc095-010d-javaguidev_1.pdf"
+  },
+  {
+    "Number": 96,
+    "Name": "Getting Started With Integrating PHP and Flex",
+    "URL": "https://dzone.com/storage/assets/4347-rc96-010d-flashbuilderflexphp-update_1.pdf"
+  },
+  {
+    "Number": 97,
+    "Name": "Getting Started With JBoss Enterprise Application Platform 7",
+    "URL": "https://dzone.com/storage/assets/3243955-dzonerefcardz-jbosseap7.pdf"
+  },
+  {
+    "Number": 98,
+    "Name": "Getting Started with Maven Repository Management",
+    "URL": "https://dzone.com/storage/assets/4341-rc098-010d-repositorymanagement_0.pdf"
+  },
+  {
+    "Number": 99,
+    "Name": "Java EE Security Essentials",
+    "URL": "https://dzone.com/storage/assets/3794613-dzonerc99-securityinjavaeeapplications.pdf"
+  },
+  {
+    "Number": 100,
+    "Name": "Getting Started with FitNesse",
+    "URL": "https://dzone.com/storage/assets/5105577-rc100-010d-fitnesse-0.pdf"
+  },
+  {
+    "Number": 101,
+    "Name": "JDBC Best Practices",
+    "URL": "https://dzone.com/storage/assets/4280-rc101-010d-jdbc_0.pdf"
+  },
+  {
+    "Number": 102,
+    "Name": "Flex 4 & Spring 3 Integration",
+    "URL": "https://dzone.com/storage/assets/4240-rc102-010d-flex4spring3int_1.pdf"
+  },
+  {
+    "Number": 103,
+    "Name": "Leveraging ColdFusion 9 Exposed Services from Java",
+    "URL": "https://dzone.com/storage/assets/4209-rc103-010d-cfaas.pdf"
+  },
+  {
+    "Number": 104,
+    "Name": "Getting Started with Apache Ant",
+    "URL": "https://dzone.com/storage/assets/60607-rc104-010d-apacheant_0.pdf"
+  },
+  {
+    "Number": 105,
+    "Name": "Getting Started with NoSQL and Data Scalability",
+    "URL": "https://dzone.com/storage/assets/4154-rc105-010d-nosql.pdf"
+  },
+  {
+    "Number": 106,
+    "Name": "Expression-Based Authorization with Spring Security 3",
+    "URL": "https://dzone.com/storage/assets/557824-rc106-expression-basedauthorization.pdf"
+  },
+  {
+    "Number": 107,
+    "Name": "Getting Started With Griffon",
+    "URL": "<--"
+  },
+  {
+    "Number": 108,
+    "Name": "Getting Started Firebug 1.5",
+    "URL": "https://dzone.com/storage/assets/3909-rc108-010d-firebug.pdf"
+  },
+  {
+    "Number": 109,
+    "Name": "Getting Started with Kanban for Software Development",
+    "URL": "https://dzone.com/storage/assets/3860-rc109-010d-kanban_8.pdf"
+  },
+  {
+    "Number": 110,
+    "Name": "Objective-C for the iPhone and iPad",
+    "URL": "https://dzone.com/storage/assets/4000-rc110-010d-objective-c_0.pdf"
+  },
+  {
+    "Number": 111,
+    "Name": "Getting Started with Windows Communication Foundation 4.0",
+    "URL": "https://dzone.com/storage/assets/3989-rc111-010d-wcf.pdf"
+  },
+  {
+    "Number": 112,
+    "Name": "Getting Started with UML",
+    "URL": "https://dzone.com/storage/assets/3980-rc112-010d-uml.pdf"
+  },
+  {
+    "Number": 113,
+    "Name": "Getting Started With Adobe Flash Catalyst",
+    "URL": "https://dzone.com/storage/assets/3969-rc113-010d-flashcat_0.pdf"
+  },
+  {
+    "Number": 114,
+    "Name": "Application Prototyping with SketchFlow",
+    "URL": "https://dzone.com/storage/assets/3925-rc114-010d-application-prototyping_1.pdf"
+  },
+  {
+    "Number": 115,
+    "Name": "Getting Started with Infinispan",
+    "URL": "https://dzone.com/storage/assets/6267431-dzone-rc115-infinispan.pdf"
+  },
+  {
+    "Number": 116,
+    "Name": "Adobe ColdFusion Web Services for PHP Programmers",
+    "URL": "https://dzone.com/storage/assets/3940-rc116-010d-coldfusionws_php.pdf"
+  },
+  {
+    "Number": 117,
+    "Name": "Getting Started With Apache Hadoop",
+    "URL": "https://dzone.com/storage/assets/9219790-dzone-refcard117-apachehadoop-new.pdf"
+  },
+  {
+    "Number": 118,
+    "Name": "Getting Started with Visual Studio 2010",
+    "URL": "https://dzone.com/storage/assets/3842-rc118-010d-visualstudio10.pdf"
+  },
+  {
+    "Number": 119,
+    "Name": "Getting Started with Application Lifecycle Management",
+    "URL": "https://dzone.com/storage/assets/3839-rc119-010d-alm_1.pdf"
+  },
+  {
+    "Number": 120,
+    "Name": "Apache Solr Getting Optimal Search Results",
+    "URL": "https://dzone.com/storage/assets/3879-rc120-010d-solr_0.pdf"
+  },
+  {
+    "Number": 121,
+    "Name": "Open Source Media Framework",
+    "URL": "https://dzone.com/storage/assets/3855-rc121-010d-osmf_0.pdf"
+  },
+  {
+    "Number": 122,
+    "Name": "Functional Programming with Clojure",
+    "URL": "https://dzone.com/storage/assets/3818-rc122-010d-clojure.pdf"
+  },
+  {
+    "Number": 123,
+    "Name": "HTML5 The Evolution of Web Standards",
+    "URL": "https://dzone.com/storage/assets/6847784-rc-123-html5.pdf"
+  },
+  {
+    "Number": 124,
+    "Name": "PHPUnit PHP Test-Driven Development Automated Tools to Improve Your PHP Code Quality",
+    "URL": "https://dzone.com/storage/assets/3822-rc124-010d-phpunit_1.pdf"
+  },
+  {
+    "Number": 125,
+    "Name": "Selenium 2.0 Using the Webdriver API to Create Robust User Acceptance Tests",
+    "URL": "https://dzone.com/storage/assets/3805-rc125-010d-selenium2_6.pdf"
+  },
+  {
+    "Number": 126,
+    "Name": "Essential Liferay",
+    "URL": "https://dzone.com/storage/assets/8127495-dzone-refcard126-essentialliferaydxp.pdf"
+  },
+  {
+    "Number": 127,
+    "Name": "Developing a Silverlight Application for Windows Phone",
+    "URL": "<--"
+  },
+  {
+    "Number": 128,
+    "Name": "What's New in JPA 2.0",
+    "URL": "https://dzone.com/storage/assets/3201-rc128-010d-jpa2_0.pdf"
+  },
+  {
+    "Number": 129,
+    "Name": "Foundations of RESTful Architecture",
+    "URL": "https://dzone.com/storage/assets/9815686-dzone-refcard129-restfularchitecture.pdf"
+  },
+  {
+    "Number": 130,
+    "Name": "Designing Quality Software",
+    "URL": "https://dzone.com/storage/assets/2791-rc130-010d-designing-quality_0.pdf"
+  },
+  {
+    "Number": 131,
+    "Name": "ADO.NET Entity Framework",
+    "URL": "https://dzone.com/storage/assets/2804-rc131-010d-adonet-ef.pdf"
+  },
+  {
+    "Number": 132,
+    "Name": "Mastering Portals with a Portlet Bridge",
+    "URL": "<--"
+  },
+  {
+    "Number": 133,
+    "Name": "Apache Hadoop Deployment",
+    "URL": "https://dzone.com/storage/assets/2877-rc133-010d-deploying-hadoop_1%20(1).pdf"
+  },
+  {
+    "Number": 134,
+    "Name": "Cloud Computing with Windows Azure Platform",
+    "URL": "https://dzone.com/storage/assets/4918-rc134-010d-windows-azure(1).pdf"
+  },
+  {
+    "Number": 135,
+    "Name": "The MVVM Design Pattern",
+    "URL": "https://dzone.com/storage/user-avatar/3011-rc135-010d-mvvm%20(1).pdf"
+  },
+  {
+    "Number": 136,
+    "Name": "WebMatrix",
+    "URL": "https://dzone.com/storage/assets/3043-rc136-010d-webmatrix_3%20(1).pdf"
+  },
+  {
+    "Number": 137,
+    "Name": "Understanding Lucene",
+    "URL": "https://dzone.com/storage/assets/3058-rc137-010d-lucene_0%20(1).pdf"
+  },
+  {
+    "Number": 138,
+    "Name": "RichFaces 4.0",
+    "URL": "https://dzone.com/storage/assets/3073-rc138-010d-richfaces4%20(1).pdf"
+  },
+  {
+    "Number": 139,
+    "Name": "Spring Roo",
+    "URL": "https://dzone.com/storage/assets/3087-rc139-010d-springroo%20(1).pdf"
+  },
+  {
+    "Number": 140,
+    "Name": "Mule 3.3",
+    "URL": "https://dzone.com/storage/assets/3097-rc140-update-mule3.3_0%20(1).pdf"
+  },
+  {
+    "Number": 141,
+    "Name": "Node.js",
+    "URL": "https://dzone.com/storage/assets/8235413-dzone-refcard141-nodejs.pdf"
+  },
+  {
+    "Number": 142,
+    "Name": "Adobe Flash Builder 4.5",
+    "URL": "https://dzone.com/storage/assets/4814-rc142-010d-flashbuilder45_1%20(3).pdf"
+  },
+  {
+    "Number": 143,
+    "Name": "ColdFusion Builder 2",
+    "URL": "https://dzone.com/storage/assets/3131-rc143-010d-cfbuilder2_0.pdf"
+  },
+  {
+    "Number": 144,
+    "Name": "EclipseLink JPA",
+    "URL": "https://dzone.com/storage/assets/3802-rc144-010d-eclipselinkjpa-3_1%20(1).pdf"
+  },
+  {
+    "Number": 145,
+    "Name": "Continuous Delivery",
+    "URL": "https://dzone.com/storage/assets/10862832-dzone-refcard145-cdpatternsandantipatterns.pdf"
+  },
+  {
+    "Number": 146,
+    "Name": "Flex Mobile Development",
+    "URL": "https://dzone.com/storage/assets/3180-rc146-010d-flexmobiledevelopment.pdf"
+  },
+  {
+    "Number": 147,
+    "Name": "Eclipse Tools for Spring",
+    "URL": "https://dzone.com/storage/assets/3175-rc147-010d-springsts.pdf"
+  },
+  {
+    "Number": 148,
+    "Name": "Mastering Portal UI",
+    "URL": "https://dzone.com/storage/assets/3858-rc148-010d-uivaadinliferay_0%20(1).pdf"
+  },
+  {
+    "Number": 149,
+    "Name": "Chef An Open Source Tool for Scalable Cloud and Data Center Automation",
+    "URL": "https://dzone.com/storage/assets/3136-rc149-010d-chef.pdf"
+  },
+  {
+    "Number": 150,
+    "Name": "Java Enterprise Edition 6",
+    "URL": "https://dzone.com/storage/assets/41350-rc150-010d-jee6.pdf"
+  },
+  {
+    "Number": 151,
+    "Name": "HTML5 Canvas",
+    "URL": "https://dzone.com/storage/assets/4470-rc151-010d-html5-canvas.pdf"
+  },
+  {
+    "Number": 152,
+    "Name": "HTML5 WebSocket",
+    "URL": "https://dzone.com/storage/assets/4482-rc152-010d-websocket_2.pdf"
+  },
+  {
+    "Number": 153,
+    "Name": "Apache Cassandra",
+    "URL": "https://dzone.com/storage/assets/10477375-dzone-refcard153-cassandra.pdf"
+  },
+  {
+    "Number": 154,
+    "Name": "Core Jetty",
+    "URL": "https://dzone.com/storage/assets/4488-rc154u-010d-jetty.pdf"
+  },
+  {
+    "Number": 155,
+    "Name": "Mockito",
+    "URL": "https://dzone.com/storage/assets/4491-rc155-010d-mockito_4.pdf"
+  },
+  {
+    "Number": 156,
+    "Name": "Java FX",
+    "URL": "https://dzone.com/storage/assets/4556-rc156u-010d-javafx_1.pdf"
+  },
+  {
+    "Number": 157,
+    "Name": "Database Partitioning with MySQL",
+    "URL": "https://dzone.com/storage/assets/4501-rc157-010d-dbpartitioning_2.pdf"
+  },
+  {
+    "Number": 158,
+    "Name": "Machine Learning",
+    "URL": "https://dzone.com/storage/assets/4503-rc158-010d-machinelearning_1.pdf"
+  },
+  {
+    "Number": 159,
+    "Name": "Essential Apache HBase",
+    "URL": "https://dzone.com/storage/assets/4464-rc159-hbase_7.pdf"
+  },
+  {
+    "Number": 160,
+    "Name": "Data Warehousing",
+    "URL": "https://dzone.com/storage/assets/10109449-dzone-refcard160-datawarehousing.pdf"
+  },
+  {
+    "Number": 161,
+    "Name": "Jenkins on PaaS",
+    "URL": "https://dzone.com/storage/assets/4359-rc161-jenkinsonpaas.pdf"
+  },
+  {
+    "Number": 162,
+    "Name": "Java Profiling with VisualVM",
+    "URL": "https://dzone.com/storage/assets/4350-rc162-visualvm_0.pdf"
+  },
+  {
+    "Number": 163,
+    "Name": "Code Gems for Android Developers",
+    "URL": "https://dzone.com/storage/assets/4336-android_refcard_163_0.pdf"
+  },
+  {
+    "Number": 164,
+    "Name": "Getting Started With Scala",
+    "URL": "https://dzone.com/storage/assets/7456124-rc-164-gettingstartedwithscala.pdf"
+  },
+  {
+    "Number": 165,
+    "Name": "Deployment Automation Patterns",
+    "URL": "https://dzone.com/storage/assets/4244-rc165-dap_3.pdf"
+  },
+  {
+    "Number": 166,
+    "Name": "Patterns of Modular Architecture",
+    "URL": "https://dzone.com/storage/assets/315629-rc166-010d-modularitypatterns-0.pdf"
+  },
+  {
+    "Number": 167,
+    "Name": "Software Configuration Management Patterns",
+    "URL": "https://dzone.com/storage/assets/7529578-rc-167-softwareconfigurationmanagementpatterns.pdf"
+  },
+  {
+    "Number": 168,
+    "Name": "Refactoring Patterns",
+    "URL": "https://dzone.com/storage/assets/4177-rc168-010d-refactoring.pdf"
+  },
+  {
+    "Number": 169,
+    "Name": "Essential Apache HTTP Server",
+    "URL": "https://dzone.com/storage/assets/4122-rc169-010d-apachehttpd_1.pdf"
+  },
+  {
+    "Number": 170,
+    "Name": "Camel Essential Components",
+    "URL": "https://dzone.com/storage/assets/3305313-dzone-refcard170-camel-essentials.pdf"
+  },
+  {
+    "Number": 171,
+    "Name": "MongoDB",
+    "URL": "https://dzone.com/storage/assets/4176-rc171-010d-mongodb.pdf"
+  },
+  {
+    "Number": 172,
+    "Name": "Introduction to HTTP",
+    "URL": "https://dzone.com/storage/assets/4158-rc172-010d-http_0.pdf"
+  },
+  {
+    "Number": 173,
+    "Name": "Core JSON",
+    "URL": "https://dzone.com/storage/assets/4124-rc173-010d-json_3.pdf"
+  },
+  {
+    "Number": 174,
+    "Name": "Object-Oriented JavaScript",
+    "URL": "https://dzone.com/storage/assets/4114-rc174-010d-object-oriented-js_4.pdf"
+  },
+  {
+    "Number": 175,
+    "Name": "Core Dart",
+    "URL": "https://dzone.com/storage/assets/4098-rc175-010d-dart_1.pdf"
+  },
+  {
+    "Number": 176,
+    "Name": "Essential Couchbase APIs",
+    "URL": "https://dzone.com/storage/assets/4075-rc176-010d-couchbaseapi_2.pdf"
+  },
+  {
+    "Number": 177,
+    "Name": "HTML5 Web Workers",
+    "URL": "https://dzone.com/storage/assets/4028-rc177-010d-html5-webworkers_0.pdf"
+  },
+  {
+    "Number": 178,
+    "Name": "Git Patterns and Anti-Patterns",
+    "URL": "https://dzone.com/storage/assets/3988-rc178-010d-git-patterns-antipatterns_0.pdf"
+  },
+  {
+    "Number": 179,
+    "Name": "Sencha Touch",
+    "URL": "https://dzone.com/storage/assets/3947-rc179-010d-sencha-touch_1.pdf"
+  },
+  {
+    "Number": 180,
+    "Name": "Preparing for Continuous Delivery",
+    "URL": "https://dzone.com/storage/assets/4734157-dzone-rc180-preparingforcontinuousdelivery.pdf"
+  },
+  {
+    "Number": 181,
+    "Name": "Using Repository Managers",
+    "URL": "https://dzone.com/storage/assets/4902351-dzone-rc181-repositorymanager.pdf"
+  },
+  {
+    "Number": 182,
+    "Name": "Practical DNS",
+    "URL": "https://dzone.com/storage/assets/10911640-dzone-refcard182-practicaldns.pdf"
+  },
+  {
+    "Number": 183,
+    "Name": "Practical Data Mining with Python",
+    "URL": "https://dzone.com/storage/assets/4127-rc183-010d-data-mining_1.pdf"
+  },
+  {
+    "Number": 184,
+    "Name": "Core Spring Data",
+    "URL": "https://dzone.com/storage/assets/4117-rc184-010d-spring-data.pdf"
+  },
+  {
+    "Number": 185,
+    "Name": "Subversion",
+    "URL": "https://dzone.com/storage/assets/4113-rc185-010d-subversion_0.pdf"
+  },
+  {
+    "Number": 186,
+    "Name": "HTML5 Mobile Development",
+    "URL": "https://dzone.com/storage/assets/4106-rc186-010d-html5-mobile_1.pdf"
+  },
+  {
+    "Number": 187,
+    "Name": "Spring Batch",
+    "URL": "https://dzone.com/storage/assets/4101-rc187-010d-spring-batch_1.pdf"
+  },
+  {
+    "Number": 188,
+    "Name": "Business Rule Management With Drools",
+    "URL": "https://dzone.com/storage/assets/4085-rc188-010d-drools.pdf"
+  },
+  {
+    "Number": 189,
+    "Name": "Core C++",
+    "URL": "https://dzone.com/storage/assets/4088-rc189-010d-cpp.pdf"
+  },
+  {
+    "Number": 190,
+    "Name": "Essential PostGIS",
+    "URL": "https://dzone.com/storage/assets/4072-rc190-010d-essentialpostgis_1.pdf"
+  },
+  {
+    "Number": 191,
+    "Name": "Getting Started With PhoneGap",
+    "URL": "https://dzone.com/storage/assets/4068-rc191-010d-phonegap.pdf"
+  },
+  {
+    "Number": 192,
+    "Name": "CSS3 Basics",
+    "URL": "https://dzone.com/storage/assets/4020-rc192-010d-css3_basics.pdf"
+  },
+  {
+    "Number": 193,
+    "Name": "Core Python",
+    "URL": "https://dzone.com/storage/assets/4630679-dzone-refcard193-corepython.pdf"
+  },
+  {
+    "Number": 194,
+    "Name": "Search Patterns",
+    "URL": "https://dzone.com/storage/assets/3987-rc193-010-cloudsearch4.pdf"
+  },
+  {
+    "Number": 195,
+    "Name": "HTML5 IndexedDB",
+    "URL": "https://dzone.com/storage/assets/3972-rc1xx-010d-html5-indexeddb_0.pdf"
+  },
+  {
+    "Number": 196,
+    "Name": "Regular Expressions",
+    "URL": "https://dzone.com/storage/assets/3949-rc196-010d-regex_1.pdf"
+  },
+  {
+    "Number": 197,
+    "Name": "Spring Integration",
+    "URL": "https://dzone.com/storage/assets/3932-rc197-010-springintegration_0.pdf"
+  },
+  {
+    "Number": 198,
+    "Name": "Java Enterprise Edition 7",
+    "URL": "https://dzone.com/storage/assets/3188497-dzone-rc-java-ee-7.pdf"
+  },
+  {
+    "Number": 199,
+    "Name": "Debugging JavaScript",
+    "URL": "https://dzone.com/storage/assets/3901-rc199-010-debuggingjavascript_3.pdf"
+  },
+  {
+    "Number": 200,
+    "Name": "Java Performance Optimization",
+    "URL": "https://dzone.com/storage/assets/2087720-rc-200-javaperformanceupdate-editorial.pdf"
+  },
+  {
+    "Number": 201,
+    "Name": "Reactive Programming with Akka",
+    "URL": "https://dzone.com/storage/assets/4808048-dzone-rc201-reactiveprogrammingwithakka.pdf"
+  },
+  {
+    "Number": 202,
+    "Name": "Getting Started With Play Framework",
+    "URL": "https://dzone.com/storage/assets/6506838-dzone-rc247-gettingstartedwithplayframework2.pdf"
+  },
+  {
+    "Number": 203,
+    "Name": "Querying Graphs with Neo4j",
+    "URL": "https://dzone.com/storage/assets/2054316-querying-graphs-with-neo4j.pdf"
+  },
+  {
+    "Number": 204,
+    "Name": "Apache Spark",
+    "URL": "https://dzone.com/storage/assets/8572872-dzone-refcard204-apachespark-0316.pdf"
+  },
+  {
+    "Number": 205,
+    "Name": "PHP 5.5 & 5.6",
+    "URL": "https://dzone.com/storage/assets/3144-dzone_rc_php.pdf"
+  },
+  {
+    "Number": 206,
+    "Name": "Angular Essentials",
+    "URL": "https://dzone.com/storage/assets/10631983-dzone-refcard206-angular.pdf"
+  },
+  {
+    "Number": 207,
+    "Name": "Cloud Foundry",
+    "URL": "https://dzone.com/storage/assets/2652408-rc207-010d-cloudfoundry-update.pdf"
+  },
+  {
+    "Number": 208,
+    "Name": "Getting Started With OpenStack",
+    "URL": "https://dzone.com/storage/assets/6005554-dzone-rc208-gettingstartedwithopenstack.pdf"
+  },
+  {
+    "Number": 209,
+    "Name": "Distributed Machine Learning with Apache Mahout",
+    "URL": "https://dzone.com/storage/assets/5613-rc209_010d-mahout(1).pdf"
+  },
+  {
+    "Number": 210,
+    "Name": "NoSQL and Data Scalability",
+    "URL": "https://dzone.com/storage/assets/6529118-dzone-rc210-nosqldatascalability-09-08-17.pdf"
+  },
+  {
+    "Number": 211,
+    "Name": "Mobile Web Application Testing",
+    "URL": "https://dzone.com/storage/assets/2811-rc211_010d-mobileapp_1.pdf"
+  },
+  {
+    "Number": 212,
+    "Name": "Getting Started With Apache Tomcat",
+    "URL": "https://dzone.com/storage/assets/149130-rc212_apache-tomcat-1.pdf"
+  },
+  {
+    "Number": 213,
+    "Name": "Monitoring NGINX",
+    "URL": "https://dzone.com/storage/assets/8546916-dzone-rc213-monitoringnginx.pdf"
+  },
+  {
+    "Number": 214,
+    "Name": "Getting Started With MQTT",
+    "URL": "https://dzone.com/storage/assets/1463401-rc214-mqtt-update.pdf"
+  },
+  {
+    "Number": 215,
+    "Name": "Getting Started With Microservices",
+    "URL": "https://dzone.com/storage/assets/3259596-dzonerefcardz-gettingstartedmicroservices.pdf"
+  },
+  {
+    "Number": 216,
+    "Name": "Java Caching",
+    "URL": "https://dzone.com/storage/assets/370183-rc216-javacaching.pdf"
+  },
+  {
+    "Number": 217,
+    "Name": "Functional Programming in JavaScript",
+    "URL": "https://dzone.com/storage/assets/379008-rc217-functionalprogramming.pdf"
+  },
+  {
+    "Number": 218,
+    "Name": "Continuous Delivery With Jenkins Workflow",
+    "URL": "https://dzone.com/storage/assets/413450-rc218-cdw-jenkins-workflow.pdf"
+  },
+  {
+    "Number": 219,
+    "Name": "JavaFX 8",
+    "URL": "https://dzone.com/storage/assets/6504420-dzone-rc85-javafx8.pdf"
+  },
+  {
+    "Number": 220,
+    "Name": "Getting Started With Real User Monitoring",
+    "URL": "https://dzone.com/storage/assets/538210-rc220-rum.pdf"
+  },
+  {
+    "Number": 221,
+    "Name": "Getting Started With Docker",
+    "URL": "https://dzone.com/storage/assets/6348213-dzone-rc221-gettingstartedwithdocker.pdf"
+  },
+  {
+    "Number": 222,
+    "Name": "Getting Started With Industrial Internet",
+    "URL": "https://dzone.com/storage/assets/715827-dzone-rc-industrial-internet.pdf"
+  },
+  {
+    "Number": 223,
+    "Name": "SQL Syntax for Apache Drill",
+    "URL": "https://dzone.com/storage/assets/827949-rc223-sql-syntax-apache-drill.pdf"
+  },
+  {
+    "Number": 224,
+    "Name": "React.js Essentials",
+    "URL": "https://dzone.com/storage/assets/920010-dzone-rc-react-essentials.pdf"
+  },
+  {
+    "Number": 225,
+    "Name": "AMQP Essentials",
+    "URL": "https://dzone.com/storage/assets/1000606-dzone-rc-amqpessentials.pdf"
+  },
+  {
+    "Number": 226,
+    "Name": "",
+    "URL": ""
+  },
+  {
+    "Number": 227,
+    "Name": "Reactive Programming in JavaScript With RxJS",
+    "URL": "<--"
+  },
+  {
+    "Number": 228,
+    "Name": "Getting Started With Apache JMeter",
+    "URL": "https://dzone.com/storage/assets/1319738-dzone-rc-jmeter.pdf"
+  },
+  {
+    "Number": 229,
+    "Name": "IoT Applications With Java and Raspberry Pi",
+    "URL": "https://dzone.com/storage/assets/1385377-dzone-rc-java-and-raspberrypi.pdf"
+  },
+  {
+    "Number": 230,
+    "Name": "Java Containerization",
+    "URL": "https://dzone.com/storage/assets/10485398-dzone-refcard230-javacontainerization-2.pdf"
+  },
+  {
+    "Number": 231,
+    "Name": "From Relational to Graph: A Developer's Guide",
+    "URL": "https://dzone.com/storage/assets/2054302-dzone-refcardz-231-neo4j.pdf"
+  },
+  {
+    "Number": 232,
+    "Name": "R Essentials",
+    "URL": "https://dzone.com/storage/assets/2061042-dzone-refcardz-ressentials.pdf"
+  },
+  {
+    "Number": 233,
+    "Name": "Getting Started With Kubernetes",
+    "URL": "https://dzone.com/storage/assets/10716562-dzone-refcard233-gettingstartedwithkubernetes.pdf"
+  },
+  {
+    "Number": 234,
+    "Name": "Microservices in Java",
+    "URL": "https://dzone.com/storage/assets/7260948-dzone-rc234-microservicesinjava.pdf"
+  },
+  {
+    "Number": 235,
+    "Name": "Swift Essentials",
+    "URL": "https://dzone.com/storage/assets/9570585-dzone-refcard235-swiftessentials.pdf"
+  },
+  {
+    "Number": 236,
+    "Name": "Introduction to Docker Monitoring",
+    "URL": "https://dzone.com/storage/assets/9981079-dzone-refcard236-dockermonitoring.pdf"
+  },
+  {
+    "Number": 237,
+    "Name": ".NET on Linux",
+    "URL": "https://dzone.com/storage/assets/6506875-dzone-rc-237-dotnetcoreonlinux.pdf"
+  },
+  {
+    "Number": 238,
+    "Name": "RESTful API Lifecycle Management",
+    "URL": "https://dzone.com/storage/assets/4960646-dzone-rc238-restfulapilifecyclemanagement.pdf"
+  },
+  {
+    "Number": 239,
+    "Name": "Getting Started With Appium",
+    "URL": "https://dzone.com/storage/assets/11599387-dzone-refcard239-gettingstartedwithappium.pdf"
+  },
+  {
+    "Number": 240,
+    "Name": "Reactive Microservices With Lagom and Java",
+    "URL": "https://dzone.com/storage/assets/5723163-dzone-rc240-reactivemicroserviceswithlagomandjava.pdf"
+  },
+  {
+    "Number": 241,
+    "Name": "Declarative Pipeline With Jenkins",
+    "URL": "https://dzone.com/storage/assets/6132886-dzone-rc241-declarativepipelinewithjenkins-2.pdf"
+  },
+  {
+    "Number": 242,
+    "Name": "Recommendations Using Redis",
+    "URL": "https://dzone.com/storage/assets/5977783-dzone-rc242-recommendationsusingredis.pdf"
+  },
+  {
+    "Number": 243,
+    "Name": "Getting Started With Java-Based CMS",
+    "URL": "https://dzone.com/storage/assets/6147971-dzone-rc243-javabasedcms.pdf"
+  },
+  {
+    "Number": 244,
+    "Name": "Getting to Know Google Compute Engine and How to Use It",
+    "URL": "https://dzone.com/storage/assets/6070406-dzone-rc244googlecomputeengine.pdf"
+  },
+  {
+    "Number": 245,
+    "Name": "Getting Started With Redis",
+    "URL": "https://dzone.com/storage/assets/6105872-dzone-rc245-gettingstartedwithredis.pdf"
+  },
+  {
+    "Number": 246,
+    "Name": "Continuous Testing",
+    "URL": "https://dzone.com/storage/assets/11494213-refcard246-continuoustesting.pdf"
+  },
+  {
+    "Number": 247,
+    "Name": "Getting Started With Spring Boot and Microservices",
+    "URL": "https://dzone.com/storage/assets/6459742-dzone-rc247-gettingstartedwithspringbootandmicrose.pdf"
+  },
+  {
+    "Number": 248,
+    "Name": "Java Application Vulnerabilities",
+    "URL": "https://dzone.com/storage/assets/10837052-dzone-refcard248-javaapplicationvulnerabilities.pdf"
+  },
+  {
+    "Number": 249,
+    "Name": "An Overview of GraphQL",
+    "URL": "https://dzone.com/storage/assets/6811883-dzone-rc249-graphql-10-03-2017.pdf"
+  },
+  {
+    "Number": 250,
+    "Name": "Getting Started With Memcached",
+    "URL": "https://dzone.com/storage/assets/6966893-dzone-rc250-memcached.pdf"
+  },
+  {
+    "Number": 251,
+    "Name": "Introduction to TensorFlow",
+    "URL": "https://dzone.com/storage/assets/7162207-dzone-rc251-gettingstartedwithtensorflow.pdf"
+  },
+  {
+    "Number": 252,
+    "Name": "Graph-Powered Search Neo4j & Elasticsearch",
+    "URL": "https://dzone.com/storage/assets/7407531-graphpoweredsearch-neo4j-elasticsearch.pdf"
+  },
+  {
+    "Number": 253,
+    "Name": "Introduction to Web Components",
+    "URL": "https://dzone.com/storage/assets/7538262-rc-252-introductiontowebcomponents.pdf"
+  },
+  {
+    "Number": 254,
+    "Name": "Apache Kafka",
+    "URL": "https://dzone.com/storage/assets/7714451-dzone-rc254-apachekafka.pdf"
+  },
+  {
+    "Number": 255,
+    "Name": "DevOps for Database",
+    "URL": "https://dzone.com/storage/assets/7901264-refcard-255-devopsfordatabase.pdf"
+  },
+  {
+    "Number": 256,
+    "Name": "Getting Started With Ethereum Private Blockchain",
+    "URL": "https://dzone.com/storage/assets/7936465-rc-256-gettingstartedonethereumprivateblockchain.pdf"
+  },
+  {
+    "Number": 257,
+    "Name": "Getting Started With Kotlin",
+    "URL": "https://dzone.com/storage/assets/9054799-dzone-refcard267-kotlin.pdf"
+  },
+  {
+    "Number": 258,
+    "Name": "Docker Security",
+    "URL": "https://dzone.com/storage/assets/8102715-dzone-refcard268-dockersecurity.pdf"
+  },
+  {
+    "Number": 259,
+    "Name": "Test Design Automation",
+    "URL": "https://dzone.com/storage/assets/8377201-dzone-refcard259-testdesignautomation.pdf"
+  },
+  {
+    "Number": 260,
+    "Name": "REST API Security",
+    "URL": "https://dzone.com/storage/assets/10165377-dzone-refcard260-restapisecurity.pdf"
+  },
+  {
+    "Number": 261,
+    "Name": "Improving Web Performance With Varnish",
+    "URL": "https://dzone.com/storage/assets/8622024-dzone-refcard204-varnish-326new.pdf"
+  },
+  {
+    "Number": 262,
+    "Name": "Introduction to DevOps Analytics",
+    "URL": "https://dzone.com/storage/assets/8651562-dzone-refcard262-devopsanalysis-new.pdf"
+  },
+  {
+    "Number": 263,
+    "Name": "Messaging Infrastructure for IoT at Scale",
+    "URL": "https://dzone.com/storage/assets/8685580-dzone-refcard263-iotinfrastructureatscale.pdf"
+  },
+  {
+    "Number": 264,
+    "Name": "Blockchain and Distributed Ledger Technology for Documents",
+    "URL": "https://dzone.com/storage/assets/9017464-dzone-refcard264-blockchainfordocuments.pdf"
+  },
+  {
+    "Number": 265,
+    "Name": "Understanding Stream Processing",
+    "URL": "https://dzone.com/storage/assets/9223150-dzone-refcard265-streamprocessing-0523.pdf"
+  },
+  {
+    "Number": 266,
+    "Name": "Agile Patterns",
+    "URL": "https://dzone.com/storage/assets/9473113-dzone-refcard266-agilepatterns.pdf"
+  },
+  {
+    "Number": 267,
+    "Name": "Introduction to DevSecOps",
+    "URL": "https://dzone.com/storage/assets/9612391-dzone-refcard265-devsecops.pdf"
+  },
+  {
+    "Number": 268,
+    "Name": "Cloud Capacity Management",
+    "URL": "https://dzone.com/storage/assets/9688821-dzone-refcard267-cloudcapacitymanagement.pdf"
+  },
+  {
+    "Number": 269,
+    "Name": "Understanding Data Quality",
+    "URL": "https://dzone.com/storage/assets/9890768-dzone-refcard269-understandingdataquality.pdf"
+  },
+  {
+    "Number": 270,
+    "Name": "Persistent Container Storage",
+    "URL": "https://dzone.com/storage/assets/10432514-dzone-refcard270-persistentcontainerstorage.pdf"
+  },
+  {
+    "Number": 271,
+    "Name": "Compliant DevOps",
+    "URL": "https://dzone.com/storage/assets/10383252-dzone-refcard271-compliantdevops.pdf"
+  },
+  {
+    "Number": 272,
+    "Name": "Introduction to Hazelcast IMDG",
+    "URL": "https://dzone.com/storage/assets/10417084-dzone-refcard272-hazelcastimdg.pdf"
+  },
+  {
+    "Number": 273,
+    "Name": "Java API Best Practices",
+    "URL": "https://dzone.com/storage/assets/10439158-dzone-refcard273-javaapidesign.pdf"
+  },
+  {
+    "Number": 274,
+    "Name": "Temporal Data Processing",
+    "URL": "https://dzone.com/storage/assets/11153495-dzone-refcard274-temporaldataprocessing.pdf"
+  },
+  {
+    "Number": 275,
+    "Name": "Securing Your Kubernetes Deployment",
+    "URL": "https://dzone.com/storage/assets/10934229-dzone-refcard275-securingyourkubernetesdeployment.pdf"
+  },
+  {
+    "Number": 276,
+    "Name": "Responsive Web Design",
+    "URL": "https://dzone.com/storage/assets/10792670-dzone-refcard276-responsivewebdesign.pdf"
+  },
+  {
+    "Number": 277,
+    "Name": "CI CD With Containers",
+    "URL": "https://dzone.com/storage/assets/10892980-dzone-refcard276-cicdwithcontainers.pdf"
+  },
+  {
+    "Number": 278,
+    "Name": "",
+    "URL": ""
+  },
+  {
+    "Number": 279,
+    "Name": "",
+    "URL": ""
+  },
+  {
+    "Number": 280,
+    "Name": "Database Monitoring",
+    "URL": "https://dzone.com/storage/assets/10919848-dzone-refcard280-databasemonitoring.pdf"
+  },
+  {
+    "Number": 281,
+    "Name": "Design Systems",
+    "URL": "https://dzone.com/storage/assets/10929137-dzone-refcard281-designsystems1220.pdf"
+  },
+  {
+    "Number": 282,
+    "Name": "Shifting Left With Continuous Delivery",
+    "URL": "https://dzone.com/storage/assets/11067962-dzone-refcard282-shiftingleft1.pdf"
+  },
+  {
+    "Number": 283,
+    "Name": "Introduction to RASP",
+    "URL": "https://dzone.com/storage/assets/11092313-dzone-refcard283rasp.pdf"
+  },
+  {
+    "Number": 284,
+    "Name": "Introduction to IAST",
+    "URL": "https://dzone.com/storage/assets/10934477-dzone-refcard278-iast.pdf"
+  },
+  {
+    "Number": 285,
+    "Name": "Securing Mobile Applications With Cert Pinning",
+    "URL": "https://dzone.com/storage/assets/11085847-dzone-refcard283-securingmobileappscertpinning.pdf"
+  },
+  {
+    "Number": 286,
+    "Name": "Software Usage Analytics for Data-Driven Development",
+    "URL": "https://dzone.com/storage/assets/11138541-dzone-refcard286-softwareusageanalytics.pdf"
+  },
+  {
+    "Number": 287,
+    "Name": "RavenDB 4.0",
+    "URL": "https://dzone.com/storage/assets/11231886-dzone-refcard287-ravendb.pdf"
+  },
+  {
+    "Number": 288,
+    "Name": "Low-Code Application Development",
+    "URL": "https://dzone.com/storage/assets/11231342-dzone-refcard288-introtolowcode.pdf"
+  },
+  {
+    "Number": 289,
+    "Name": "Working With Time Series Data",
+    "URL": "https://dzone.com/storage/assets/11283656-dzone-refcard288-timeseriesdata.pdf"
+  },
+  {
+    "Number": 290,
+    "Name": "Log Management",
+    "URL": "https://dzone.com/storage/assets/11390071-dzone-refcard290-logmanagement0304.pdf"
+  },
+  {
+    "Number": 291,
+    "Name": "Code Review Patterns and Anti-Patterns",
+    "URL": "https://dzone.com/storage/assets/11414267-dzone-refcard291-codereview-0307.pdf"
+  },
+  {
+    "Number": 292,
+    "Name": "Advanced Kubernetes",
+    "URL": "https://dzone.com/storage/assets/11459286-dzone-refcard292-advancedkubernetes314.pdf"
+  },
+  {
+    "Number": 293,
+    "Name": "Scaling and Augmenting Prometheus",
+    "URL": "https://dzone.com/storage/assets/11501649-dzone-refcard293-scalingandaugmentingprometheus.pdf"
+  },
+  {
+    "Number": 294,
+    "Name": "Fission.io",
+    "URL": "https://dzone.com/storage/assets/11542782-dzone-refcard294-fissionio.pdf"
+  },
+  {
+    "Number": 295,
+    "Name": "Building Microservices With Redis",
+    "URL": "https://dzone.com/storage/assets/11632178-dzone-refcard295-microseviceswithredis0410.pdf"
+  },
+  {
+    "Number": 296,
+    "Name": "Microservices on Kubernetes",
+    "URL": "https://dzone.com/storage/assets/11642143-dzone-refcard295-microsevicesonkubernetes-final.pdf"
+  },
+  {
+    "Number": 297,
+    "Name": "GitOps for Kubernetes",
+    "URL": "https://dzone.com/storage/assets/11705830-dzone-refcard297-gitopsonkubernetes.pdf"
+  },
+  {
+    "Number": 298,
+    "Name": "Introduction to Serverless Monitoring",
+    "URL": "https://dzone.com/storage/assets/11722674-dzone-refcard298-introductiontoserverless.pdf"
+  }
+]

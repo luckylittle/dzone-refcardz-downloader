@@ -20,6 +20,10 @@
     "url": "https://dzone.com/refcardz/adobe-flash-builder-45-develop"
   },
   {
+    "name": "Advanced Kubernetes",
+    "url": "https://dzone.com/refcardz/advanced-kubernetes"
+  },
+  {
     "name": "Agile Adoption: Decreasing Time to Market",
     "url": "https://dzone.com/refcardz/agile-adoption-decreasing-time"
   },
@@ -350,6 +354,10 @@
   {
     "name": "Expression-Based Authorization with Spring Security 3",
     "url": "https://dzone.com/refcardz/expression-based-authorization"
+  },
+  {
+    "name": "Fission.io",
+    "url": "https://dzone.com/refcardz/fissionio"
   },
   {
     "name": "Flex &amp;amp; Spring Integration",
@@ -1002,6 +1010,10 @@
   {
     "name": "Scalability &amp;amp; High Availability",
     "url": "https://dzone.com/refcardz/scalability"
+  },
+  {
+    "name": "Scaling and Augmenting Prometheus",
+    "url": "https://dzone.com/refcardz/scaling-and-augmenting-prometheus"
   },
   {
     "name": "Scrum",
