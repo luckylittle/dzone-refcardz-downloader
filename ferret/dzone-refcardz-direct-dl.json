@@ -1491,18 +1491,18 @@
   },
   {
     "Number": 299,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Introduction to DNS Security",
+    "URL": "https://dzone.com/storage/assets/11833101-dzone-refcard299-dnssecurity.pdf"
   },
   {
     "Number": 300,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "IoT Security Best Practices",
+    "URL": "https://dzone.com/storage/assets/11933572-dzone-refcard300-iotsecurity.pdf"
   },
   {
     "Number": 301,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Monitoring Kubernetes",
+    "URL": "https://dzone.com/storage/assets/11940870-dzone-refcard301-kubernetesmonitoring.pdf"
   },
   {
     "Number": 302,
@@ -1546,8 +1546,8 @@
   },
   {
     "Number": 310,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Understanding Apache Spark Failures and Bottlenecks",
+    "URL": "https://dzone.com/storage/assets/12368648-dzone-refcard309-apachespark.pdf"
   },
   {
     "Number": 311,
@@ -1561,8 +1561,8 @@
   },
   {
     "Number": 313,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Open Source API Management",
+    "URL": "https://dzone.com/storage/assets/12380883-dzone-refcard313-opensourceapimanagement.pdf"
   },
   {
     "Number": 314,
@@ -1591,8 +1591,8 @@
   },
   {
     "Number": 319,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Quarkus",
+    "URL": "https://dzone.com/storage/assets/12525138-dzone-refcard320-quarkus.pdf"
   },
   {
     "Number": 320,
