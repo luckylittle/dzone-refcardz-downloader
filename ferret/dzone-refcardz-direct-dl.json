@@ -1386,13 +1386,13 @@
   },
   {
     "Number": 278,
-    "Name": "",
-    "URL": ""
+    "Name": "<--",
+    "URL": "<--"
   },
   {
     "Number": 279,
-    "Name": "",
-    "URL": ""
+    "Name": "<--",
+    "URL": "<--"
   },
   {
     "Number": 280,
@@ -1521,13 +1521,13 @@
   },
   {
     "Number": 305,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Controlling Features With Feature Flags",
+    "URL": "https://dzone.com/storage/assets/12099313-dzone-refcard305-featureflags.pdf"
   },
   {
     "Number": 306,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Getting started with Istio",
+    "URL": "https://dzone.com/storage/assets/12160745-dzone-refcard306-istio-new.pdf"
   },
   {
     "Number": 307,
@@ -1541,8 +1541,8 @@
   },
   {
     "Number": 309,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Managing microservices",
+    "URL": "https://dzone.com/storage/assets/12368653-dzone-refcard308-managingmicroservices.pdf"
   },
   {
     "Number": 310,
@@ -1566,8 +1566,8 @@
   },
   {
     "Number": 314,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Drupal 8",
+    "URL": "https://dzone.com/storage/assets/12588974-dzone-refcard314-drupal.pdf"
   },
   {
     "Number": 315,
@@ -1586,8 +1586,8 @@
   },
   {
     "Number": 318,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Java 13",
+    "URL": "https://dzone.com/storage/assets/12992683-dzone-refcard318-java13.pdf"
   },
   {
     "Number": 319,
