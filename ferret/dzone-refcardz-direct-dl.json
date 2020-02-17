@@ -1506,18 +1506,18 @@
   },
   {
     "Number": 302,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Cloud Native Data Grids Hazelcast IMDG With Kubernetes",
+    "URL": "https://dzone.com/storage/assets/12049415-dzone-refcard302-cloudnativedatagrids-hazelcastimd.pdf"
   },
   {
     "Number": 303,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "API Integration Best Practices",
+    "URL": "https://dzone.com/storage/assets/12116285-dzone-refcard303-apiintegrations.pdf"
   },
   {
     "Number": 304,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Variant Analysis",
+    "URL": "https://dzone.com/storage/assets/12107562-dzone-refcard303-varientanalysis.pdf"
   },
   {
     "Number": 305,
@@ -1576,13 +1576,13 @@
   },
   {
     "Number": 316,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Hybrid Cloud vs. Multi-Cloud",
+    "URL": "https://dzone.com/storage/assets/12453866-dzone-refcard316-multi-cloud.pdf"
   },
   {
     "Number": 317,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Advanced Time Series",
+    "URL": "https://dzone.com/storage/assets/12463822-dzone-refcard317-advancedtimeseries.pdf"
   },
   {
     "Number": 318,
@@ -1596,17 +1596,22 @@
   },
   {
     "Number": 320,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Visual Testing",
+    "URL": "https://dzone.com/storage/assets/12548106-dzone-refcard320-visualtesting.pdf"
   },
   {
     "Number": 321,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Getting Started With Headless CMS",
+    "URL": "https://dzone.com/storage/assets/12673864-dzone-refcard321-javaheadlesscms.pdf"
   },
   {
     "Number": 322,
     "Name": "Getting started with Ballerina",
     "URL": "https://dzone.com/storage/assets/12889113-ballerina-refcard-wso2-2019.pdf"
+  },
+  {
+    "Number": 323,
+    "Name": "Introduction to Digital Asset Management via APIs",
+    "URL": "https://dzone.com/storage/assets/13028168-dzone-refcard323-dam-apis-2020.pdf"
   }
 ]
