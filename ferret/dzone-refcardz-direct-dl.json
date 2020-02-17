@@ -1126,8 +1126,8 @@
   },
   {
     "Number": 226,
-    "Name": "",
-    "URL": ""
+    "Name": "<--",
+    "URL": "<--"
   },
   {
     "Number": 227,
@@ -1551,13 +1551,13 @@
   },
   {
     "Number": 311,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "NCache Scaling .NET Core Applications for Extreme Performance",
+    "URL": "https://dzone.com/storage/assets/12362305-dzone-refcard308-ncache.pdf"
   },
   {
     "Number": 312,
-    "Name": "",
-    "URL": "https://dzone.com/storage/assets/"
+    "Name": "Eclipse MicroProfile",
+    "URL": "https://dzone.com/storage/assets/12362776-dzone-refcard309-eclipse.pdf"
   },
   {
     "Number": 313,
