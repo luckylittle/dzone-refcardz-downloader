@@ -92,6 +92,10 @@
 |Refcardz      |288       |
 |All files size|000 B (GB)|
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/luckylittle/dzone-refcardz-downloader.svg)](https://starchart.cc/luckylittle/dzone-refcardz-downloader)
+
 ---
 
 @luckylittle <<lucian@redhat.com>>
